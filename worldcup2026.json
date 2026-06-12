@@ -1235,11 +1235,11 @@
       "t2": "BIH",
       "grp": "B",
       "stad": "BMO Field, Toronto",
-      "status": "upcoming",
+      "status": "finished",
       "matchNum": 3,
       "stats": {
-        "goalsTeam1": 0,
-        "goalsTeam2": 0,
+        "goalsTeam1": 1,
+        "goalsTeam2": 1,
         "possessionTeam1": 50,
         "possessionTeam2": 50,
         "shotsTeam1": 0,
@@ -4497,5 +4497,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-06-12T09:02:06.341Z"
+  "lastUpdated": "2026-06-12T22:34:23.000Z"
 }
