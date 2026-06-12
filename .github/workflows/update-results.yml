@@ -34,7 +34,7 @@ jobs:
           git config user.email "actions@github.com"
           if ! git diff --quiet -- worldcup2026.json; then
             git add worldcup2026.json
-            git commit -m "Auto-update results [skip ci]"
+            git commit -m "Auto-update results"
             git push
           else
             echo "No changes to commit."
