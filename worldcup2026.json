@@ -250,41 +250,41 @@
       {
         "code": "USA",
         "name": "USA",
-        "points": 0,
-        "played": 0,
-        "won": 0,
+        "points": 3,
+        "played": 1,
+        "won": 1,
         "drawn": 0,
         "lost": 0,
-        "goalsFor": 0,
-        "goalsAgainst": 0,
-        "goalDifference": 0,
-        "yellowCards": 0,
+        "goalsFor": 4,
+        "goalsAgainst": 1,
+        "goalDifference": 3,
+        "yellowCards": 1,
         "redCards": 0,
-        "fairPlay": 0,
+        "fairPlay": -1,
         "qualified": false,
         "mathematicallyQualified": false,
         "eliminated": false,
-        "position": 4,
+        "position": 1,
         "thirdPlaceStatus": "none"
       },
       {
         "code": "PAR",
         "name": "Paraguay",
         "points": 0,
-        "played": 0,
+        "played": 1,
         "won": 0,
         "drawn": 0,
-        "lost": 0,
-        "goalsFor": 0,
-        "goalsAgainst": 0,
-        "goalDifference": 0,
-        "yellowCards": 0,
+        "lost": 1,
+        "goalsFor": 1,
+        "goalsAgainst": 4,
+        "goalDifference": -3,
+        "yellowCards": 5,
         "redCards": 0,
-        "fairPlay": 0,
+        "fairPlay": -5,
         "qualified": false,
         "mathematicallyQualified": false,
         "eliminated": false,
-        "position": 2,
+        "position": 4,
         "thirdPlaceStatus": "none"
       },
       {
@@ -304,7 +304,7 @@
         "qualified": false,
         "mathematicallyQualified": false,
         "eliminated": false,
-        "position": 1,
+        "position": 2,
         "thirdPlaceStatus": "none"
       },
       {
@@ -1673,28 +1673,59 @@
       "stats": {
         "goalsTeam1": 4,
         "goalsTeam2": 1,
-        "possessionTeam1": 50,
-        "possessionTeam2": 50,
-        "shotsTeam1": 0,
-        "shotsTeam2": 0,
-        "shotsOnTargetTeam1": 0,
-        "shotsOnTargetTeam2": 0,
-        "cornersTeam1": 0,
-        "cornersTeam2": 0,
-        "foulsTeam1": 0,
-        "foulsTeam2": 0,
-        "yellowCardsTeam1": 0,
-        "yellowCardsTeam2": 0,
+        "possessionTeam1": 63,
+        "possessionTeam2": 37,
+        "shotsTeam1": 17,
+        "shotsTeam2": 8,
+        "shotsOnTargetTeam1": 6,
+        "shotsOnTargetTeam2": 1,
+        "cornersTeam1": 3,
+        "cornersTeam2": 1,
+        "foulsTeam1": 13,
+        "foulsTeam2": 17,
+        "yellowCardsTeam1": 1,
+        "yellowCardsTeam2": 5,
         "redCardsTeam1": 0,
         "redCardsTeam2": 0,
-        "offsidesTeam1": 0,
-        "offsidesTeam2": 0,
-        "passesTeam1": 0,
-        "passesTeam2": 0,
-        "passAccuracyTeam1": 0,
-        "passAccuracyTeam2": 0
+        "offsidesTeam1": 2,
+        "offsidesTeam2": 1,
+        "passesTeam1": 577,
+        "passesTeam2": 282,
+        "passAccuracyTeam1": 91,
+        "passAccuracyTeam2": 74
       },
-      "scorers": []
+      "scorers": [
+        {
+          "name": "D. Bobadilla",
+          "team": "team1",
+          "time": 7,
+          "type": "owngoal"
+        },
+        {
+          "name": "F. Balogun",
+          "team": "team1",
+          "time": 31,
+          "type": "normal"
+        },
+        {
+          "name": "F. Balogun",
+          "team": "team1",
+          "time": "45+5",
+          "type": "normal"
+        },
+        {
+          "name": "Maurício",
+          "team": "team2",
+          "time": 73,
+          "type": "normal"
+        },
+        {
+          "name": "G. Reyna",
+          "team": "team1",
+          "time": "90+8",
+          "type": "normal"
+        }
+      ]
     },
     {
       "date": "Sunday 14 June 2026",
@@ -4510,5 +4541,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-06-13T05:42:38.000Z"
+  "lastUpdated": "2026-06-13T05:34:18.000Z"
 }
