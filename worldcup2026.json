@@ -100,7 +100,7 @@
         "qualified": false,
         "mathematicallyQualified": false,
         "eliminated": false,
-        "position": 1,
+        "position": 2,
         "thirdPlaceStatus": "none"
       },
       {
@@ -120,23 +120,23 @@
         "qualified": false,
         "mathematicallyQualified": false,
         "eliminated": false,
-        "position": 2,
+        "position": 4,
         "thirdPlaceStatus": "none"
       },
       {
         "code": "QAT",
         "name": "Qatar",
-        "points": 0,
-        "played": 0,
+        "points": 1,
+        "played": 1,
         "won": 0,
-        "drawn": 0,
+        "drawn": 1,
         "lost": 0,
-        "goalsFor": 0,
-        "goalsAgainst": 0,
+        "goalsFor": 1,
+        "goalsAgainst": 1,
         "goalDifference": 0,
-        "yellowCards": 0,
+        "yellowCards": 2,
         "redCards": 0,
-        "fairPlay": 0,
+        "fairPlay": -2,
         "qualified": false,
         "mathematicallyQualified": false,
         "eliminated": false,
@@ -146,21 +146,21 @@
       {
         "code": "SUI",
         "name": "Switzerland",
-        "points": 0,
-        "played": 0,
+        "points": 1,
+        "played": 1,
         "won": 0,
-        "drawn": 0,
+        "drawn": 1,
         "lost": 0,
-        "goalsFor": 0,
-        "goalsAgainst": 0,
+        "goalsFor": 1,
+        "goalsAgainst": 1,
         "goalDifference": 0,
-        "yellowCards": 0,
+        "yellowCards": 1,
         "redCards": 0,
-        "fairPlay": 0,
+        "fairPlay": -1,
         "qualified": false,
         "mathematicallyQualified": false,
         "eliminated": false,
-        "position": 4,
+        "position": 1,
         "thirdPlaceStatus": "none"
       }
     ],
@@ -1283,33 +1283,46 @@
       "t2": "SUI",
       "grp": "B",
       "stad": "Levi's Stadium, Santa Clara",
-      "status": "upcoming",
+      "status": "finished",
       "matchNum": 8,
       "stats": {
-        "goalsTeam1": 0,
-        "goalsTeam2": 0,
-        "possessionTeam1": 50,
-        "possessionTeam2": 50,
-        "shotsTeam1": 0,
-        "shotsTeam2": 0,
-        "shotsOnTargetTeam1": 0,
-        "shotsOnTargetTeam2": 0,
-        "cornersTeam1": 0,
-        "cornersTeam2": 0,
-        "foulsTeam1": 0,
-        "foulsTeam2": 0,
-        "yellowCardsTeam1": 0,
-        "yellowCardsTeam2": 0,
+        "goalsTeam1": 1,
+        "goalsTeam2": 1,
+        "possessionTeam1": 30,
+        "possessionTeam2": 70,
+        "shotsTeam1": 6,
+        "shotsTeam2": 27,
+        "shotsOnTargetTeam1": 4,
+        "shotsOnTargetTeam2": 10,
+        "cornersTeam1": 3,
+        "cornersTeam2": 10,
+        "foulsTeam1": 11,
+        "foulsTeam2": 11,
+        "yellowCardsTeam1": 2,
+        "yellowCardsTeam2": 1,
         "redCardsTeam1": 0,
         "redCardsTeam2": 0,
         "offsidesTeam1": 0,
-        "offsidesTeam2": 0,
-        "passesTeam1": 0,
-        "passesTeam2": 0,
-        "passAccuracyTeam1": 0,
-        "passAccuracyTeam2": 0
+        "offsidesTeam2": 1,
+        "passesTeam1": 261,
+        "passesTeam2": 551,
+        "passAccuracyTeam1": 73,
+        "passAccuracyTeam2": 93
       },
-      "scorers": []
+      "scorers": [
+        {
+          "name": "Breel Embolo",
+          "team": "team2",
+          "time": 17,
+          "type": "penalty"
+        },
+        {
+          "name": "Boualem Khoukhi",
+          "team": "team1",
+          "time": "90+5",
+          "type": "normal"
+        }
+      ]
     },
     {
       "date": "Thursday 18 June 2026",
@@ -4541,5 +4554,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-06-13T05:34:18.000Z"
+  "lastUpdated": "2026-06-13T21:34:07.000Z"
 }
