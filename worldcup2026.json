@@ -1668,11 +1668,11 @@
       "t2": "PAR",
       "grp": "D",
       "stad": "SoFi Stadium, Inglewood",
-      "status": "upcoming",
+      "status": "finished",
       "matchNum": 4,
       "stats": {
-        "goalsTeam1": 0,
-        "goalsTeam2": 0,
+        "goalsTeam1": 4,
+        "goalsTeam2": 1,
         "possessionTeam1": 50,
         "possessionTeam2": 50,
         "shotsTeam1": 0,
@@ -4510,5 +4510,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-06-12T23:40:11.000Z"
+  "lastUpdated": "2026-06-13T05:42:38.000Z"
 }
