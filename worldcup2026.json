@@ -84,26 +84,6 @@
     ],
     "B": [
       {
-        "code": "SUI",
-        "name": "Switzerland",
-        "points": 1,
-        "played": 1,
-        "won": 0,
-        "drawn": 1,
-        "lost": 0,
-        "goalsFor": 1,
-        "goalsAgainst": 1,
-        "goalDifference": 0,
-        "yellowCards": 1,
-        "redCards": 0,
-        "fairPlay": -1,
-        "qualified": false,
-        "mathematicallyQualified": false,
-        "eliminated": false,
-        "position": 1,
-        "thirdPlaceStatus": "none"
-      },
-      {
         "code": "CAN",
         "name": "Canada",
         "points": 1,
@@ -121,6 +101,26 @@
         "mathematicallyQualified": false,
         "eliminated": false,
         "position": 2,
+        "thirdPlaceStatus": "none"
+      },
+      {
+        "code": "BIH",
+        "name": "Bosnia and Herzegovina",
+        "points": 1,
+        "played": 1,
+        "won": 0,
+        "drawn": 1,
+        "lost": 0,
+        "goalsFor": 1,
+        "goalsAgainst": 1,
+        "goalDifference": 0,
+        "yellowCards": 3,
+        "redCards": 0,
+        "fairPlay": -3,
+        "qualified": false,
+        "mathematicallyQualified": false,
+        "eliminated": false,
+        "position": 4,
         "thirdPlaceStatus": "none"
       },
       {
@@ -144,8 +144,8 @@
         "thirdPlaceStatus": "none"
       },
       {
-        "code": "BIH",
-        "name": "Bosnia and Herzegovina",
+        "code": "SUI",
+        "name": "Switzerland",
         "points": 1,
         "played": 1,
         "won": 0,
@@ -154,31 +154,31 @@
         "goalsFor": 1,
         "goalsAgainst": 1,
         "goalDifference": 0,
-        "yellowCards": 3,
+        "yellowCards": 1,
         "redCards": 0,
-        "fairPlay": -3,
+        "fairPlay": -1,
         "qualified": false,
         "mathematicallyQualified": false,
         "eliminated": false,
-        "position": 4,
+        "position": 1,
         "thirdPlaceStatus": "none"
       }
     ],
     "C": [
       {
-        "code": "SCO",
-        "name": "Scotland",
-        "points": 3,
-        "played": 1,
-        "won": 1,
+        "code": "BRA",
+        "name": "Brazil",
+        "points": 0,
+        "played": 0,
+        "won": 0,
         "drawn": 0,
         "lost": 0,
-        "goalsFor": 1,
+        "goalsFor": 0,
         "goalsAgainst": 0,
-        "goalDifference": 1,
-        "yellowCards": 3,
+        "goalDifference": 0,
+        "yellowCards": 0,
         "redCards": 0,
-        "fairPlay": -3,
+        "fairPlay": 0,
         "qualified": false,
         "mathematicallyQualified": false,
         "eliminated": false,
@@ -188,13 +188,33 @@
       {
         "code": "MAR",
         "name": "Morocco",
-        "points": 1,
-        "played": 1,
+        "points": 0,
+        "played": 0,
         "won": 0,
-        "drawn": 1,
+        "drawn": 0,
         "lost": 0,
-        "goalsFor": 1,
-        "goalsAgainst": 1,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "goalDifference": 0,
+        "yellowCards": 0,
+        "redCards": 0,
+        "fairPlay": 0,
+        "qualified": false,
+        "mathematicallyQualified": false,
+        "eliminated": false,
+        "position": 3,
+        "thirdPlaceStatus": "none"
+      },
+      {
+        "code": "HAI",
+        "name": "Haiti",
+        "points": 0,
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
         "goalDifference": 0,
         "yellowCards": 0,
         "redCards": 0,
@@ -206,39 +226,19 @@
         "thirdPlaceStatus": "none"
       },
       {
-        "code": "BRA",
-        "name": "Brazil",
-        "points": 1,
-        "played": 1,
-        "won": 0,
-        "drawn": 1,
-        "lost": 0,
-        "goalsFor": 1,
-        "goalsAgainst": 1,
-        "goalDifference": 0,
-        "yellowCards": 2,
-        "redCards": 0,
-        "fairPlay": -2,
-        "qualified": false,
-        "mathematicallyQualified": false,
-        "eliminated": false,
-        "position": 3,
-        "thirdPlaceStatus": "none"
-      },
-      {
-        "code": "HAI",
-        "name": "Haiti",
+        "code": "SCO",
+        "name": "Scotland",
         "points": 0,
-        "played": 1,
+        "played": 0,
         "won": 0,
         "drawn": 0,
-        "lost": 1,
+        "lost": 0,
         "goalsFor": 0,
-        "goalsAgainst": 1,
-        "goalDifference": -1,
-        "yellowCards": 1,
+        "goalsAgainst": 0,
+        "goalDifference": 0,
+        "yellowCards": 0,
         "redCards": 0,
-        "fairPlay": -1,
+        "fairPlay": 0,
         "qualified": false,
         "mathematicallyQualified": false,
         "eliminated": false,
@@ -268,46 +268,6 @@
         "thirdPlaceStatus": "none"
       },
       {
-        "code": "AUS",
-        "name": "Australia",
-        "points": 3,
-        "played": 1,
-        "won": 1,
-        "drawn": 0,
-        "lost": 0,
-        "goalsFor": 2,
-        "goalsAgainst": 0,
-        "goalDifference": 2,
-        "yellowCards": 0,
-        "redCards": 0,
-        "fairPlay": 0,
-        "qualified": false,
-        "mathematicallyQualified": false,
-        "eliminated": false,
-        "position": 2,
-        "thirdPlaceStatus": "none"
-      },
-      {
-        "code": "TUR",
-        "name": "Turkiye",
-        "points": 0,
-        "played": 1,
-        "won": 0,
-        "drawn": 0,
-        "lost": 1,
-        "goalsFor": 0,
-        "goalsAgainst": 2,
-        "goalDifference": -2,
-        "yellowCards": 1,
-        "redCards": 0,
-        "fairPlay": -1,
-        "qualified": false,
-        "mathematicallyQualified": false,
-        "eliminated": false,
-        "position": 3,
-        "thirdPlaceStatus": "none"
-      },
-      {
         "code": "PAR",
         "name": "Paraguay",
         "points": 0,
@@ -326,32 +286,10 @@
         "eliminated": false,
         "position": 4,
         "thirdPlaceStatus": "none"
-      }
-    ],
-    "E": [
-      {
-        "code": "GER",
-        "name": "Germany",
-        "points": 0,
-        "played": 0,
-        "won": 0,
-        "drawn": 0,
-        "lost": 0,
-        "goalsFor": 0,
-        "goalsAgainst": 0,
-        "goalDifference": 0,
-        "yellowCards": 0,
-        "redCards": 0,
-        "fairPlay": 0,
-        "qualified": false,
-        "mathematicallyQualified": false,
-        "eliminated": false,
-        "position": 1,
-        "thirdPlaceStatus": "none"
       },
       {
-        "code": "CUW",
-        "name": "Curaçao",
+        "code": "AUS",
+        "name": "Australia",
         "points": 0,
         "played": 0,
         "won": 0,
@@ -367,6 +305,68 @@
         "mathematicallyQualified": false,
         "eliminated": false,
         "position": 2,
+        "thirdPlaceStatus": "none"
+      },
+      {
+        "code": "TUR",
+        "name": "Turkiye",
+        "points": 0,
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "goalDifference": 0,
+        "yellowCards": 0,
+        "redCards": 0,
+        "fairPlay": 0,
+        "qualified": false,
+        "mathematicallyQualified": false,
+        "eliminated": false,
+        "position": 3,
+        "thirdPlaceStatus": "none"
+      }
+    ],
+    "E": [
+      {
+        "code": "GER",
+        "name": "Germany",
+        "points": 3,
+        "played": 1,
+        "won": 1,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 7,
+        "goalsAgainst": 1,
+        "goalDifference": 6,
+        "yellowCards": 0,
+        "redCards": 0,
+        "fairPlay": 0,
+        "qualified": false,
+        "mathematicallyQualified": false,
+        "eliminated": false,
+        "position": 1,
+        "thirdPlaceStatus": "none"
+      },
+      {
+        "code": "CUW",
+        "name": "Curaçao",
+        "points": 0,
+        "played": 1,
+        "won": 0,
+        "drawn": 0,
+        "lost": 1,
+        "goalsFor": 1,
+        "goalsAgainst": 7,
+        "goalDifference": -6,
+        "yellowCards": 0,
+        "redCards": 0,
+        "fairPlay": 0,
+        "qualified": false,
+        "mathematicallyQualified": false,
+        "eliminated": false,
+        "position": 4,
         "thirdPlaceStatus": "none"
       },
       {
@@ -386,7 +386,7 @@
         "qualified": false,
         "mathematicallyQualified": false,
         "eliminated": false,
-        "position": 3,
+        "position": 2,
         "thirdPlaceStatus": "none"
       },
       {
@@ -406,7 +406,7 @@
         "qualified": false,
         "mathematicallyQualified": false,
         "eliminated": false,
-        "position": 4,
+        "position": 3,
         "thirdPlaceStatus": "none"
       }
     ],
@@ -428,7 +428,7 @@
         "qualified": false,
         "mathematicallyQualified": false,
         "eliminated": false,
-        "position": 1,
+        "position": 2,
         "thirdPlaceStatus": "none"
       },
       {
@@ -448,7 +448,7 @@
         "qualified": false,
         "mathematicallyQualified": false,
         "eliminated": false,
-        "position": 2,
+        "position": 1,
         "thirdPlaceStatus": "none"
       },
       {
@@ -592,7 +592,7 @@
         "qualified": false,
         "mathematicallyQualified": false,
         "eliminated": false,
-        "position": 1,
+        "position": 2,
         "thirdPlaceStatus": "none"
       },
       {
@@ -612,7 +612,7 @@
         "qualified": false,
         "mathematicallyQualified": false,
         "eliminated": false,
-        "position": 2,
+        "position": 1,
         "thirdPlaceStatus": "none"
       },
       {
@@ -694,7 +694,7 @@
         "qualified": false,
         "mathematicallyQualified": false,
         "eliminated": false,
-        "position": 2,
+        "position": 4,
         "thirdPlaceStatus": "none"
       },
       {
@@ -714,7 +714,7 @@
         "qualified": false,
         "mathematicallyQualified": false,
         "eliminated": false,
-        "position": 3,
+        "position": 2,
         "thirdPlaceStatus": "none"
       },
       {
@@ -734,7 +734,7 @@
         "qualified": false,
         "mathematicallyQualified": false,
         "eliminated": false,
-        "position": 4,
+        "position": 3,
         "thirdPlaceStatus": "none"
       }
     ],
@@ -756,7 +756,7 @@
         "qualified": false,
         "mathematicallyQualified": false,
         "eliminated": false,
-        "position": 1,
+        "position": 2,
         "thirdPlaceStatus": "none"
       },
       {
@@ -776,7 +776,7 @@
         "qualified": false,
         "mathematicallyQualified": false,
         "eliminated": false,
-        "position": 2,
+        "position": 1,
         "thirdPlaceStatus": "none"
       },
       {
@@ -838,7 +838,7 @@
         "qualified": false,
         "mathematicallyQualified": false,
         "eliminated": false,
-        "position": 1,
+        "position": 3,
         "thirdPlaceStatus": "none"
       },
       {
@@ -858,7 +858,7 @@
         "qualified": false,
         "mathematicallyQualified": false,
         "eliminated": false,
-        "position": 2,
+        "position": 1,
         "thirdPlaceStatus": "none"
       },
       {
@@ -878,7 +878,7 @@
         "qualified": false,
         "mathematicallyQualified": false,
         "eliminated": false,
-        "position": 3,
+        "position": 4,
         "thirdPlaceStatus": "none"
       },
       {
@@ -898,7 +898,7 @@
         "qualified": false,
         "mathematicallyQualified": false,
         "eliminated": false,
-        "position": 4,
+        "position": 2,
         "thirdPlaceStatus": "none"
       }
     ],
@@ -920,7 +920,7 @@
         "qualified": false,
         "mathematicallyQualified": false,
         "eliminated": false,
-        "position": 1,
+        "position": 2,
         "thirdPlaceStatus": "none"
       },
       {
@@ -940,7 +940,7 @@
         "qualified": false,
         "mathematicallyQualified": false,
         "eliminated": false,
-        "position": 2,
+        "position": 1,
         "thirdPlaceStatus": "none"
       },
       {
@@ -1471,46 +1471,33 @@
       "t2": "MAR",
       "grp": "C",
       "stad": "MetLife Stadium, East Rutherford",
-      "status": "finished",
+      "status": "upcoming",
       "matchNum": 7,
       "stats": {
-        "goalsTeam1": 1,
-        "goalsTeam2": 1,
-        "possessionTeam1": 54,
-        "possessionTeam2": 46,
-        "shotsTeam1": 8,
-        "shotsTeam2": 13,
-        "shotsOnTargetTeam1": 5,
-        "shotsOnTargetTeam2": 4,
-        "cornersTeam1": 6,
-        "cornersTeam2": 2,
-        "foulsTeam1": 16,
-        "foulsTeam2": 14,
-        "yellowCardsTeam1": 2,
+        "goalsTeam1": 0,
+        "goalsTeam2": 0,
+        "possessionTeam1": 50,
+        "possessionTeam2": 50,
+        "shotsTeam1": 0,
+        "shotsTeam2": 0,
+        "shotsOnTargetTeam1": 0,
+        "shotsOnTargetTeam2": 0,
+        "cornersTeam1": 0,
+        "cornersTeam2": 0,
+        "foulsTeam1": 0,
+        "foulsTeam2": 0,
+        "yellowCardsTeam1": 0,
         "yellowCardsTeam2": 0,
         "redCardsTeam1": 0,
         "redCardsTeam2": 0,
         "offsidesTeam1": 0,
-        "offsidesTeam2": 1,
-        "passesTeam1": 499,
-        "passesTeam2": 474,
-        "passAccuracyTeam1": 87,
-        "passAccuracyTeam2": 88
+        "offsidesTeam2": 0,
+        "passesTeam1": 0,
+        "passesTeam2": 0,
+        "passAccuracyTeam1": 0,
+        "passAccuracyTeam2": 0
       },
-      "scorers": [
-        {
-          "name": "I. Saibari",
-          "team": "team2",
-          "time": 21,
-          "type": "normal"
-        },
-        {
-          "name": "V. Júnior",
-          "team": "team1",
-          "time": 32,
-          "type": "normal"
-        }
-      ]
+      "scorers": []
     },
     {
       "date": "Sunday 14 June 2026",
@@ -1519,40 +1506,33 @@
       "t2": "SCO",
       "grp": "C",
       "stad": "Gillette Stadium, Foxborough",
-      "status": "finished",
+      "status": "upcoming",
       "matchNum": 5,
       "stats": {
         "goalsTeam1": 0,
-        "goalsTeam2": 1,
+        "goalsTeam2": 0,
         "possessionTeam1": 50,
         "possessionTeam2": 50,
-        "shotsTeam1": 13,
-        "shotsTeam2": 8,
-        "shotsOnTargetTeam1": 3,
-        "shotsOnTargetTeam2": 3,
-        "cornersTeam1": 4,
-        "cornersTeam2": 3,
-        "foulsTeam1": 23,
-        "foulsTeam2": 21,
-        "yellowCardsTeam1": 1,
-        "yellowCardsTeam2": 3,
+        "shotsTeam1": 0,
+        "shotsTeam2": 0,
+        "shotsOnTargetTeam1": 0,
+        "shotsOnTargetTeam2": 0,
+        "cornersTeam1": 0,
+        "cornersTeam2": 0,
+        "foulsTeam1": 0,
+        "foulsTeam2": 0,
+        "yellowCardsTeam1": 0,
+        "yellowCardsTeam2": 0,
         "redCardsTeam1": 0,
         "redCardsTeam2": 0,
-        "offsidesTeam1": 3,
-        "offsidesTeam2": 1,
-        "passesTeam1": 391,
-        "passesTeam2": 373,
-        "passAccuracyTeam1": 89,
-        "passAccuracyTeam2": 81
+        "offsidesTeam1": 0,
+        "offsidesTeam2": 0,
+        "passesTeam1": 0,
+        "passesTeam2": 0,
+        "passAccuracyTeam1": 0,
+        "passAccuracyTeam2": 0
       },
-      "scorers": [
-        {
-          "name": "J. McGinn",
-          "team": "team1",
-          "time": 28,
-          "type": "normal"
-        }
-      ]
+      "scorers": []
     },
     {
       "date": "Friday 19 June 2026",
@@ -1767,46 +1747,33 @@
       "t2": "TUR",
       "grp": "D",
       "stad": "BC Place, Vancouver",
-      "status": "finished",
+      "status": "upcoming",
       "matchNum": 6,
       "stats": {
-        "goalsTeam1": 2,
+        "goalsTeam1": 0,
         "goalsTeam2": 0,
-        "possessionTeam1": 37,
-        "possessionTeam2": 63,
-        "shotsTeam1": 8,
-        "shotsTeam2": 28,
-        "shotsOnTargetTeam1": 4,
-        "shotsOnTargetTeam2": 7,
-        "cornersTeam1": 5,
-        "cornersTeam2": 8,
-        "foulsTeam1": 12,
-        "foulsTeam2": 4,
+        "possessionTeam1": 50,
+        "possessionTeam2": 50,
+        "shotsTeam1": 0,
+        "shotsTeam2": 0,
+        "shotsOnTargetTeam1": 0,
+        "shotsOnTargetTeam2": 0,
+        "cornersTeam1": 0,
+        "cornersTeam2": 0,
+        "foulsTeam1": 0,
+        "foulsTeam2": 0,
         "yellowCardsTeam1": 0,
-        "yellowCardsTeam2": 1,
+        "yellowCardsTeam2": 0,
         "redCardsTeam1": 0,
         "redCardsTeam2": 0,
-        "offsidesTeam1": 1,
-        "offsidesTeam2": 3,
-        "passesTeam1": 273,
-        "passesTeam2": 679,
-        "passAccuracyTeam1": 75,
-        "passAccuracyTeam2": 91
+        "offsidesTeam1": 0,
+        "offsidesTeam2": 0,
+        "passesTeam1": 0,
+        "passesTeam2": 0,
+        "passAccuracyTeam1": 0,
+        "passAccuracyTeam2": 0
       },
-      "scorers": [
-        {
-          "name": "N. Irankunda",
-          "team": "team1",
-          "time": 27,
-          "type": "normal"
-        },
-        {
-          "name": "Metcalfe",
-          "team": "team1",
-          "time": 75,
-          "type": "normal"
-        }
-      ]
+      "scorers": []
     },
     {
       "date": "Friday 19 June 2026",
@@ -1960,28 +1927,77 @@
       "stats": {
         "goalsTeam1": 7,
         "goalsTeam2": 1,
-        "possessionTeam1": 50,
-        "possessionTeam2": 50,
-        "shotsTeam1": 0,
-        "shotsTeam2": 0,
-        "shotsOnTargetTeam1": 0,
-        "shotsOnTargetTeam2": 0,
-        "cornersTeam1": 0,
-        "cornersTeam2": 0,
-        "foulsTeam1": 0,
-        "foulsTeam2": 0,
+        "possessionTeam1": 65,
+        "possessionTeam2": 35,
+        "shotsTeam1": 26,
+        "shotsTeam2": 6,
+        "shotsOnTargetTeam1": 11,
+        "shotsOnTargetTeam2": 2,
+        "cornersTeam1": 8,
+        "cornersTeam2": 1,
+        "foulsTeam1": 16,
+        "foulsTeam2": 10,
         "yellowCardsTeam1": 0,
         "yellowCardsTeam2": 0,
         "redCardsTeam1": 0,
         "redCardsTeam2": 0,
         "offsidesTeam1": 0,
-        "offsidesTeam2": 0,
-        "passesTeam1": 0,
-        "passesTeam2": 0,
-        "passAccuracyTeam1": 0,
-        "passAccuracyTeam2": 0
+        "offsidesTeam2": 1,
+        "passesTeam1": 599,
+        "passesTeam2": 289,
+        "passAccuracyTeam1": 89,
+        "passAccuracyTeam2": 84
       },
-      "scorers": []
+      "scorers": [
+        {
+          "name": "Livano Comencia",
+          "team": "team2",
+          "time": 2,
+          "type": "normal"
+        },
+        {
+          "name": "Felix Nmecha",
+          "team": "team1",
+          "time": 6,
+          "type": "normal"
+        },
+        {
+          "name": "Nico Schlotterbeck",
+          "team": "team1",
+          "time": 38,
+          "type": "normal"
+        },
+        {
+          "name": "Kai Havertz",
+          "team": "team1",
+          "time": "45+5",
+          "type": "penalty"
+        },
+        {
+          "name": "Jamal Musiala",
+          "team": "team1",
+          "time": 47,
+          "type": "normal"
+        },
+        {
+          "name": "Nathaniel Brown",
+          "team": "team1",
+          "time": 68,
+          "type": "normal"
+        },
+        {
+          "name": "Deniz Undav",
+          "team": "team1",
+          "time": 78,
+          "type": "normal"
+        },
+        {
+          "name": "Kai Havertz",
+          "team": "team1",
+          "time": 88,
+          "type": "normal"
+        }
+      ]
     },
     {
       "date": "Sunday 14 June 2026",
@@ -4587,5 +4603,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-06-14T19:15:53.000Z"
+  "lastUpdated": "2026-06-14T19:39:45.000Z"
 }
