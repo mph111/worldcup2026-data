@@ -414,17 +414,17 @@
       {
         "code": "NED",
         "name": "Netherlands",
-        "points": 0,
-        "played": 0,
+        "points": 1,
+        "played": 1,
         "won": 0,
-        "drawn": 0,
+        "drawn": 1,
         "lost": 0,
-        "goalsFor": 0,
-        "goalsAgainst": 0,
+        "goalsFor": 2,
+        "goalsAgainst": 2,
         "goalDifference": 0,
-        "yellowCards": 0,
+        "yellowCards": 3,
         "redCards": 0,
-        "fairPlay": 0,
+        "fairPlay": -3,
         "qualified": false,
         "mathematicallyQualified": false,
         "eliminated": false,
@@ -434,13 +434,13 @@
       {
         "code": "JPN",
         "name": "Japan",
-        "points": 0,
-        "played": 0,
+        "points": 1,
+        "played": 1,
         "won": 0,
-        "drawn": 0,
+        "drawn": 1,
         "lost": 0,
-        "goalsFor": 0,
-        "goalsAgainst": 0,
+        "goalsFor": 2,
+        "goalsAgainst": 2,
         "goalDifference": 0,
         "yellowCards": 0,
         "redCards": 0,
@@ -2214,33 +2214,58 @@
       "t2": "JPN",
       "grp": "F",
       "stad": "AT&T Stadium, Arlington",
-      "status": "upcoming",
+      "status": "finished",
       "matchNum": 11,
       "stats": {
-        "goalsTeam1": 0,
-        "goalsTeam2": 0,
-        "possessionTeam1": 50,
-        "possessionTeam2": 50,
-        "shotsTeam1": 0,
-        "shotsTeam2": 0,
-        "shotsOnTargetTeam1": 0,
-        "shotsOnTargetTeam2": 0,
-        "cornersTeam1": 0,
-        "cornersTeam2": 0,
-        "foulsTeam1": 0,
-        "foulsTeam2": 0,
-        "yellowCardsTeam1": 0,
+        "goalsTeam1": 2,
+        "goalsTeam2": 2,
+        "possessionTeam1": 64,
+        "possessionTeam2": 36,
+        "shotsTeam1": 11,
+        "shotsTeam2": 8,
+        "shotsOnTargetTeam1": 7,
+        "shotsOnTargetTeam2": 3,
+        "cornersTeam1": 5,
+        "cornersTeam2": 4,
+        "foulsTeam1": 8,
+        "foulsTeam2": 7,
+        "yellowCardsTeam1": 3,
         "yellowCardsTeam2": 0,
         "redCardsTeam1": 0,
         "redCardsTeam2": 0,
-        "offsidesTeam1": 0,
+        "offsidesTeam1": 1,
         "offsidesTeam2": 0,
-        "passesTeam1": 0,
-        "passesTeam2": 0,
-        "passAccuracyTeam1": 0,
-        "passAccuracyTeam2": 0
+        "passesTeam1": 516,
+        "passesTeam2": 342,
+        "passAccuracyTeam1": 89,
+        "passAccuracyTeam2": 88
       },
-      "scorers": []
+      "scorers": [
+        {
+          "name": "V. van Dijk",
+          "team": "team1",
+          "time": 51,
+          "type": "normal"
+        },
+        {
+          "name": "K. Nakamura",
+          "team": "team2",
+          "time": 57,
+          "type": "normal"
+        },
+        {
+          "name": "C. Summerville",
+          "team": "team1",
+          "time": 64,
+          "type": "normal"
+        },
+        {
+          "name": "D. Kamada",
+          "team": "team2",
+          "time": 89,
+          "type": "normal"
+        }
+      ]
     },
     {
       "date": "Monday 15 June 2026",
@@ -4636,5 +4661,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-06-14T19:48:33.000Z"
+  "lastUpdated": "2026-06-14T22:01:35.000Z"
 }
