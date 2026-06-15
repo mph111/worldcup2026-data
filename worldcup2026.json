@@ -2703,7 +2703,7 @@
       "t2": "CPV",
       "grp": "H",
       "stad": "Mercedes-Benz Stadium, Atlanta",
-      "status": "upcoming",
+      "status": "finished",
       "matchNum": 14,
       "stats": {
         "goalsTeam1": 0,
@@ -4705,5 +4705,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-06-15T06:34:11.000Z"
+  "lastUpdated": "2026-06-15T20:49:17.000Z"
 }
