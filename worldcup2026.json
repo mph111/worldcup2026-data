@@ -2514,10 +2514,10 @@
         "redCardsTeam2": 0,
         "offsidesTeam1": 0,
         "offsidesTeam2": 1,
-        "passesTeam1": 0,
-        "passesTeam2": 0,
-        "passAccuracyTeam1": 0,
-        "passAccuracyTeam2": 0
+        "passesTeam1": 445,
+        "passesTeam2": 367,
+        "passAccuracyTeam1": 88,
+        "passAccuracyTeam2": 82
       },
       "scorers": [
         {
@@ -2737,10 +2737,10 @@
         "redCardsTeam2": 0,
         "offsidesTeam1": 2,
         "offsidesTeam2": 3,
-        "passesTeam1": 0,
-        "passesTeam2": 0,
-        "passAccuracyTeam1": 0,
-        "passAccuracyTeam2": 0
+        "passesTeam1": 764,
+        "passesTeam2": 275,
+        "passAccuracyTeam1": 92,
+        "passAccuracyTeam2": 74
       },
       "scorers": []
     },
@@ -4718,5 +4718,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-06-15T22:08:13.000Z"
+  "lastUpdated": "2026-06-15T23:18:37.000Z"
 }
