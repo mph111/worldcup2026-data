@@ -660,14 +660,14 @@
       {
         "code": "FRA",
         "name": "France",
-        "points": 0,
-        "played": 0,
-        "won": 0,
+        "points": 3,
+        "played": 1,
+        "won": 1,
         "drawn": 0,
         "lost": 0,
-        "goalsFor": 0,
-        "goalsAgainst": 0,
-        "goalDifference": 0,
+        "goalsFor": 3,
+        "goalsAgainst": 1,
+        "goalDifference": 2,
         "yellowCards": 0,
         "redCards": 0,
         "fairPlay": 0,
@@ -681,13 +681,13 @@
         "code": "SEN",
         "name": "Senegal",
         "points": 0,
-        "played": 0,
+        "played": 1,
         "won": 0,
         "drawn": 0,
-        "lost": 0,
-        "goalsFor": 0,
-        "goalsAgainst": 0,
-        "goalDifference": 0,
+        "lost": 1,
+        "goalsFor": 1,
+        "goalsAgainst": 3,
+        "goalDifference": -2,
         "yellowCards": 0,
         "redCards": 0,
         "fairPlay": 0,
@@ -2964,33 +2964,58 @@
       "t2": "SEN",
       "grp": "I",
       "stad": "MetLife Stadium, East Rutherford",
-      "status": "upcoming",
+      "status": "finished",
       "matchNum": 17,
       "stats": {
-        "goalsTeam1": 0,
-        "goalsTeam2": 0,
-        "possessionTeam1": 50,
-        "possessionTeam2": 50,
-        "shotsTeam1": 0,
-        "shotsTeam2": 0,
-        "shotsOnTargetTeam1": 0,
-        "shotsOnTargetTeam2": 0,
-        "cornersTeam1": 0,
-        "cornersTeam2": 0,
-        "foulsTeam1": 0,
-        "foulsTeam2": 0,
+        "goalsTeam1": 3,
+        "goalsTeam2": 1,
+        "possessionTeam1": 54,
+        "possessionTeam2": 46,
+        "shotsTeam1": 12,
+        "shotsTeam2": 7,
+        "shotsOnTargetTeam1": 9,
+        "shotsOnTargetTeam2": 3,
+        "cornersTeam1": 6,
+        "cornersTeam2": 4,
+        "foulsTeam1": 5,
+        "foulsTeam2": 9,
         "yellowCardsTeam1": 0,
         "yellowCardsTeam2": 0,
         "redCardsTeam1": 0,
         "redCardsTeam2": 0,
-        "offsidesTeam1": 0,
-        "offsidesTeam2": 0,
-        "passesTeam1": 0,
-        "passesTeam2": 0,
-        "passAccuracyTeam1": 0,
-        "passAccuracyTeam2": 0
+        "offsidesTeam1": 1,
+        "offsidesTeam2": 3,
+        "passesTeam1": 551,
+        "passesTeam2": 478,
+        "passAccuracyTeam1": 87,
+        "passAccuracyTeam2": 87
       },
-      "scorers": []
+      "scorers": [
+        {
+          "name": "Kylian Mbappé",
+          "team": "team1",
+          "time": 66,
+          "type": "normal"
+        },
+        {
+          "name": "Bradley Barcola",
+          "team": "team1",
+          "time": 82,
+          "type": "normal"
+        },
+        {
+          "name": "Ibrahim Mbaye",
+          "team": "team2",
+          "time": "90+5",
+          "type": "normal"
+        },
+        {
+          "name": "Kylian Mbappé",
+          "team": "team1",
+          "time": "90+6",
+          "type": "normal"
+        }
+      ]
     },
     {
       "date": "Tuesday 16 June 2026",
@@ -4756,5 +4781,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-06-16T03:48:15.000Z"
+  "lastUpdated": "2026-06-16T21:30:27.000Z"
 }
