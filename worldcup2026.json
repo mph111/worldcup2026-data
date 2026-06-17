@@ -3024,11 +3024,11 @@
       "t2": "NOR",
       "grp": "I",
       "stad": "Gillette Stadium, Foxborough",
-      "status": "upcoming",
+      "status": "finished",
       "matchNum": 18,
       "stats": {
-        "goalsTeam1": 0,
-        "goalsTeam2": 0,
+        "goalsTeam1": 1,
+        "goalsTeam2": 4,
         "possessionTeam1": 50,
         "possessionTeam2": 50,
         "shotsTeam1": 0,
@@ -4781,5 +4781,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-06-16T21:30:27.000Z"
+  "lastUpdated": "2026-06-17T00:12:24.000Z"
 }
