@@ -3284,11 +3284,11 @@
       "t2": "JOR",
       "grp": "J",
       "stad": "Levi's Stadium, Santa Clara",
-      "status": "upcoming",
+      "status": "finished",
       "matchNum": 20,
       "stats": {
-        "goalsTeam1": 0,
-        "goalsTeam2": 0,
+        "goalsTeam1": 3,
+        "goalsTeam2": 1,
         "possessionTeam1": 50,
         "possessionTeam2": 50,
         "shotsTeam1": 0,
@@ -4831,5 +4831,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-06-17T04:00:48.000Z"
+  "lastUpdated": "2026-06-17T10:44:07.000Z"
 }
