@@ -906,34 +906,14 @@
       {
         "code": "ENG",
         "name": "England",
-        "points": 0,
-        "played": 0,
-        "won": 0,
+        "points": 3,
+        "played": 1,
+        "won": 1,
         "drawn": 0,
         "lost": 0,
-        "goalsFor": 0,
-        "goalsAgainst": 0,
-        "goalDifference": 0,
-        "yellowCards": 0,
-        "redCards": 0,
-        "fairPlay": 0,
-        "qualified": false,
-        "mathematicallyQualified": false,
-        "eliminated": false,
-        "position": 2,
-        "thirdPlaceStatus": "none"
-      },
-      {
-        "code": "CRO",
-        "name": "Croatia",
-        "points": 0,
-        "played": 0,
-        "won": 0,
-        "drawn": 0,
-        "lost": 0,
-        "goalsFor": 0,
-        "goalsAgainst": 0,
-        "goalDifference": 0,
+        "goalsFor": 4,
+        "goalsAgainst": 2,
+        "goalDifference": 2,
         "yellowCards": 0,
         "redCards": 0,
         "fairPlay": 0,
@@ -941,6 +921,26 @@
         "mathematicallyQualified": false,
         "eliminated": false,
         "position": 1,
+        "thirdPlaceStatus": "none"
+      },
+      {
+        "code": "CRO",
+        "name": "Croatia",
+        "points": 0,
+        "played": 1,
+        "won": 0,
+        "drawn": 0,
+        "lost": 1,
+        "goalsFor": 2,
+        "goalsAgainst": 4,
+        "goalDifference": -2,
+        "yellowCards": 0,
+        "redCards": 0,
+        "fairPlay": 0,
+        "qualified": false,
+        "mathematicallyQualified": false,
+        "eliminated": false,
+        "position": 4,
         "thirdPlaceStatus": "none"
       },
       {
@@ -960,7 +960,7 @@
         "qualified": false,
         "mathematicallyQualified": false,
         "eliminated": false,
-        "position": 3,
+        "position": 2,
         "thirdPlaceStatus": "none"
       },
       {
@@ -980,7 +980,7 @@
         "qualified": false,
         "mathematicallyQualified": false,
         "eliminated": false,
-        "position": 4,
+        "position": 3,
         "thirdPlaceStatus": "none"
       }
     ]
@@ -3707,33 +3707,70 @@
       "t2": "CRO",
       "grp": "L",
       "stad": "AT&T Stadium, Arlington",
-      "status": "upcoming",
+      "status": "finished",
       "matchNum": 22,
       "stats": {
-        "goalsTeam1": 0,
-        "goalsTeam2": 0,
-        "possessionTeam1": 50,
-        "possessionTeam2": 50,
-        "shotsTeam1": 0,
-        "shotsTeam2": 0,
-        "shotsOnTargetTeam1": 0,
-        "shotsOnTargetTeam2": 0,
-        "cornersTeam1": 0,
-        "cornersTeam2": 0,
-        "foulsTeam1": 0,
-        "foulsTeam2": 0,
+        "goalsTeam1": 4,
+        "goalsTeam2": 2,
+        "possessionTeam1": 54,
+        "possessionTeam2": 46,
+        "shotsTeam1": 20,
+        "shotsTeam2": 11,
+        "shotsOnTargetTeam1": 12,
+        "shotsOnTargetTeam2": 6,
+        "cornersTeam1": 8,
+        "cornersTeam2": 2,
+        "foulsTeam1": 10,
+        "foulsTeam2": 11,
         "yellowCardsTeam1": 0,
         "yellowCardsTeam2": 0,
         "redCardsTeam1": 0,
         "redCardsTeam2": 0,
         "offsidesTeam1": 0,
-        "offsidesTeam2": 0,
-        "passesTeam1": 0,
-        "passesTeam2": 0,
-        "passAccuracyTeam1": 0,
-        "passAccuracyTeam2": 0
+        "offsidesTeam2": 1,
+        "passesTeam1": 476,
+        "passesTeam2": 431,
+        "passAccuracyTeam1": 88,
+        "passAccuracyTeam2": 87
       },
-      "scorers": []
+      "scorers": [
+        {
+          "name": "Harry Kane",
+          "team": "team1",
+          "time": 12,
+          "type": "penalty"
+        },
+        {
+          "name": "Martin Baturina",
+          "team": "team2",
+          "time": 36,
+          "type": "normal"
+        },
+        {
+          "name": "Harry Kane",
+          "team": "team1",
+          "time": 42,
+          "type": "normal"
+        },
+        {
+          "name": "Petar Musa",
+          "team": "team2",
+          "time": "45+5",
+          "type": "normal"
+        },
+        {
+          "name": "Jude Bellingham",
+          "team": "team1",
+          "time": 47,
+          "type": "normal"
+        },
+        {
+          "name": "Marcus Rashford",
+          "team": "team1",
+          "time": 85,
+          "type": "normal"
+        }
+      ]
     },
     {
       "date": "Wednesday 17 June 2026",
@@ -4869,5 +4906,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-06-17T19:21:22.000Z"
+  "lastUpdated": "2026-06-17T22:06:56.000Z"
 }
