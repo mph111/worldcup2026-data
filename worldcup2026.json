@@ -782,17 +782,17 @@
       {
         "code": "AUT",
         "name": "Austria",
-        "points": 0,
-        "played": 0,
-        "won": 0,
+        "points": 3,
+        "played": 1,
+        "won": 1,
         "drawn": 0,
         "lost": 0,
-        "goalsFor": 0,
-        "goalsAgainst": 0,
-        "goalDifference": 0,
-        "yellowCards": 0,
+        "goalsFor": 3,
+        "goalsAgainst": 1,
+        "goalDifference": 2,
+        "yellowCards": 1,
         "redCards": 0,
-        "fairPlay": 0,
+        "fairPlay": -1,
         "qualified": false,
         "mathematicallyQualified": false,
         "eliminated": false,
@@ -803,13 +803,13 @@
         "code": "JOR",
         "name": "Jordan",
         "points": 0,
-        "played": 0,
+        "played": 1,
         "won": 0,
         "drawn": 0,
-        "lost": 0,
-        "goalsFor": 0,
-        "goalsAgainst": 0,
-        "goalDifference": 0,
+        "lost": 1,
+        "goalsFor": 1,
+        "goalsAgainst": 3,
+        "goalDifference": -2,
         "yellowCards": 0,
         "redCards": 0,
         "fairPlay": 0,
@@ -3289,28 +3289,53 @@
       "stats": {
         "goalsTeam1": 3,
         "goalsTeam2": 1,
-        "possessionTeam1": 50,
-        "possessionTeam2": 50,
-        "shotsTeam1": 0,
-        "shotsTeam2": 0,
-        "shotsOnTargetTeam1": 0,
-        "shotsOnTargetTeam2": 0,
-        "cornersTeam1": 0,
-        "cornersTeam2": 0,
-        "foulsTeam1": 0,
-        "foulsTeam2": 0,
-        "yellowCardsTeam1": 0,
+        "possessionTeam1": 62,
+        "possessionTeam2": 38,
+        "shotsTeam1": 9,
+        "shotsTeam2": 11,
+        "shotsOnTargetTeam1": 3,
+        "shotsOnTargetTeam2": 4,
+        "cornersTeam1": 4,
+        "cornersTeam2": 3,
+        "foulsTeam1": 12,
+        "foulsTeam2": 6,
+        "yellowCardsTeam1": 1,
         "yellowCardsTeam2": 0,
         "redCardsTeam1": 0,
         "redCardsTeam2": 0,
-        "offsidesTeam1": 0,
-        "offsidesTeam2": 0,
-        "passesTeam1": 0,
-        "passesTeam2": 0,
-        "passAccuracyTeam1": 0,
-        "passAccuracyTeam2": 0
+        "offsidesTeam1": 3,
+        "offsidesTeam2": 1,
+        "passesTeam1": 579,
+        "passesTeam2": 325,
+        "passAccuracyTeam1": 88,
+        "passAccuracyTeam2": 77
       },
-      "scorers": []
+      "scorers": [
+        {
+          "name": "R. Schmid",
+          "team": "team1",
+          "time": 21,
+          "type": "normal"
+        },
+        {
+          "name": "A. Olwan",
+          "team": "team2",
+          "time": 50,
+          "type": "normal"
+        },
+        {
+          "name": "Y. Al-Arab",
+          "team": "team1",
+          "time": 76,
+          "type": "owngoal"
+        },
+        {
+          "name": "M. Arnautović",
+          "team": "team1",
+          "time": "90+12",
+          "type": "penalty"
+        }
+      ]
     },
     {
       "date": "Monday 22 June 2026",
@@ -4831,5 +4856,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-06-17T10:44:07.000Z"
+  "lastUpdated": "2026-06-17T12:29:21.000Z"
 }
