@@ -16,7 +16,7 @@
         "redCards": 1,
         "fairPlay": -4,
         "qualified": false,
-        "mathematicallyQualified": false,
+        "mathematicallyQualified": true,
         "eliminated": false,
         "position": 1,
         "thirdPlaceStatus": "none"
@@ -223,7 +223,7 @@
         "mathematicallyQualified": false,
         "eliminated": false,
         "position": 4,
-        "thirdPlaceStatus": "none"
+        "thirdPlaceStatus": "pending"
       },
       {
         "code": "SCO",
@@ -262,7 +262,7 @@
         "redCards": 0,
         "fairPlay": -4,
         "qualified": false,
-        "mathematicallyQualified": false,
+        "mathematicallyQualified": true,
         "eliminated": false,
         "position": 1,
         "thirdPlaceStatus": "none"
@@ -325,7 +325,7 @@
         "mathematicallyQualified": false,
         "eliminated": false,
         "position": 4,
-        "thirdPlaceStatus": "none"
+        "thirdPlaceStatus": "pending"
       }
     ],
     "E": [
@@ -344,7 +344,7 @@
         "redCards": 0,
         "fairPlay": 0,
         "qualified": false,
-        "mathematicallyQualified": false,
+        "mathematicallyQualified": true,
         "eliminated": false,
         "position": 1,
         "thirdPlaceStatus": "none"
@@ -352,17 +352,17 @@
       {
         "code": "CUW",
         "name": "Curaçao",
-        "points": 0,
-        "played": 1,
+        "points": 1,
+        "played": 2,
         "won": 0,
-        "drawn": 0,
+        "drawn": 1,
         "lost": 1,
         "goalsFor": 1,
         "goalsAgainst": 7,
         "goalDifference": -6,
-        "yellowCards": 0,
+        "yellowCards": 5,
         "redCards": 0,
-        "fairPlay": 0,
+        "fairPlay": -5,
         "qualified": false,
         "mathematicallyQualified": false,
         "eliminated": false,
@@ -392,17 +392,17 @@
       {
         "code": "ECU",
         "name": "Ecuador",
-        "points": 0,
-        "played": 1,
+        "points": 1,
+        "played": 2,
         "won": 0,
-        "drawn": 0,
+        "drawn": 1,
         "lost": 1,
         "goalsFor": 0,
         "goalsAgainst": 1,
         "goalDifference": -1,
-        "yellowCards": 1,
+        "yellowCards": 2,
         "redCards": 0,
-        "fairPlay": -1,
+        "fairPlay": -2,
         "qualified": false,
         "mathematicallyQualified": false,
         "eliminated": false,
@@ -434,21 +434,21 @@
       {
         "code": "JPN",
         "name": "Japan",
-        "points": 1,
-        "played": 1,
-        "won": 0,
+        "points": 4,
+        "played": 2,
+        "won": 1,
         "drawn": 1,
         "lost": 0,
-        "goalsFor": 2,
+        "goalsFor": 6,
         "goalsAgainst": 2,
-        "goalDifference": 0,
+        "goalDifference": 4,
         "yellowCards": 0,
         "redCards": 0,
         "fairPlay": 0,
         "qualified": false,
         "mathematicallyQualified": false,
         "eliminated": false,
-        "position": 3,
+        "position": 2,
         "thirdPlaceStatus": "none"
       },
       {
@@ -468,20 +468,20 @@
         "qualified": false,
         "mathematicallyQualified": false,
         "eliminated": false,
-        "position": 2,
+        "position": 3,
         "thirdPlaceStatus": "none"
       },
       {
         "code": "TUN",
         "name": "Tunisia",
         "points": 0,
-        "played": 1,
+        "played": 2,
         "won": 0,
         "drawn": 0,
-        "lost": 1,
+        "lost": 2,
         "goalsFor": 1,
-        "goalsAgainst": 5,
-        "goalDifference": -4,
+        "goalsAgainst": 9,
+        "goalDifference": -8,
         "yellowCards": 1,
         "redCards": 0,
         "fairPlay": -1,
@@ -489,7 +489,7 @@
         "mathematicallyQualified": false,
         "eliminated": false,
         "position": 4,
-        "thirdPlaceStatus": "none"
+        "thirdPlaceStatus": "pending"
       }
     ],
     "G": [
@@ -2269,31 +2269,31 @@
       "t2": "CUW",
       "grp": "E",
       "stad": "Arrowhead Stadium, Kansas City",
-      "status": "upcoming",
+      "status": "finished",
       "matchNum": 34,
       "stats": {
         "goalsTeam1": 0,
         "goalsTeam2": 0,
-        "possessionTeam1": 50,
-        "possessionTeam2": 50,
-        "shotsTeam1": 0,
-        "shotsTeam2": 0,
-        "shotsOnTargetTeam1": 0,
-        "shotsOnTargetTeam2": 0,
-        "cornersTeam1": 0,
+        "possessionTeam1": 75,
+        "possessionTeam2": 25,
+        "shotsTeam1": 26,
+        "shotsTeam2": 10,
+        "shotsOnTargetTeam1": 15,
+        "shotsOnTargetTeam2": 4,
+        "cornersTeam1": 9,
         "cornersTeam2": 0,
-        "foulsTeam1": 0,
-        "foulsTeam2": 0,
-        "yellowCardsTeam1": 0,
-        "yellowCardsTeam2": 0,
+        "foulsTeam1": 7,
+        "foulsTeam2": 10,
+        "yellowCardsTeam1": 1,
+        "yellowCardsTeam2": 5,
         "redCardsTeam1": 0,
         "redCardsTeam2": 0,
-        "offsidesTeam1": 0,
-        "offsidesTeam2": 0,
-        "passesTeam1": 0,
-        "passesTeam2": 0,
-        "passAccuracyTeam1": 0,
-        "passAccuracyTeam2": 0
+        "offsidesTeam1": 1,
+        "offsidesTeam2": 2,
+        "passesTeam1": 593,
+        "passesTeam2": 221,
+        "passAccuracyTeam1": 92,
+        "passAccuracyTeam2": 68
       },
       "scorers": []
     },
@@ -2578,33 +2578,58 @@
       "t2": "JPN",
       "grp": "F",
       "stad": "Estadio BBVA, Guadalupe",
-      "status": "upcoming",
+      "status": "finished",
       "matchNum": 36,
       "stats": {
         "goalsTeam1": 0,
-        "goalsTeam2": 0,
-        "possessionTeam1": 50,
-        "possessionTeam2": 50,
-        "shotsTeam1": 0,
-        "shotsTeam2": 0,
-        "shotsOnTargetTeam1": 0,
-        "shotsOnTargetTeam2": 0,
-        "cornersTeam1": 0,
-        "cornersTeam2": 0,
-        "foulsTeam1": 0,
-        "foulsTeam2": 0,
+        "goalsTeam2": 4,
+        "possessionTeam1": 43,
+        "possessionTeam2": 57,
+        "shotsTeam1": 3,
+        "shotsTeam2": 10,
+        "shotsOnTargetTeam1": 1,
+        "shotsOnTargetTeam2": 5,
+        "cornersTeam1": 3,
+        "cornersTeam2": 5,
+        "foulsTeam1": 8,
+        "foulsTeam2": 15,
         "yellowCardsTeam1": 0,
         "yellowCardsTeam2": 0,
         "redCardsTeam1": 0,
         "redCardsTeam2": 0,
-        "offsidesTeam1": 0,
-        "offsidesTeam2": 0,
-        "passesTeam1": 0,
-        "passesTeam2": 0,
-        "passAccuracyTeam1": 0,
-        "passAccuracyTeam2": 0
+        "offsidesTeam1": 1,
+        "offsidesTeam2": 1,
+        "passesTeam1": 312,
+        "passesTeam2": 549,
+        "passAccuracyTeam1": 83,
+        "passAccuracyTeam2": 91
       },
-      "scorers": []
+      "scorers": [
+        {
+          "name": "D. Kamada",
+          "team": "team2",
+          "time": 4,
+          "type": "normal"
+        },
+        {
+          "name": "A. Ueda",
+          "team": "team2",
+          "time": 31,
+          "type": "normal"
+        },
+        {
+          "name": "J. Ito",
+          "team": "team2",
+          "time": 69,
+          "type": "normal"
+        },
+        {
+          "name": "A. Ueda",
+          "team": "team2",
+          "time": 83,
+          "type": "normal"
+        }
+      ]
     },
     {
       "date": "Wednesday 24 June 2026",
@@ -5128,5 +5153,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-06-20T22:06:30.000Z"
+  "lastUpdated": "2026-06-21T06:32:50.000Z"
 }
