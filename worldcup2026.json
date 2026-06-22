@@ -510,27 +510,27 @@
         "qualified": false,
         "mathematicallyQualified": false,
         "eliminated": false,
-        "position": 2,
+        "position": 3,
         "thirdPlaceStatus": "none"
       },
       {
         "code": "EGY",
         "name": "Egypt",
-        "points": 1,
-        "played": 1,
-        "won": 0,
+        "points": 4,
+        "played": 2,
+        "won": 1,
         "drawn": 1,
         "lost": 0,
-        "goalsFor": 1,
-        "goalsAgainst": 1,
-        "goalDifference": 0,
-        "yellowCards": 2,
+        "goalsFor": 4,
+        "goalsAgainst": 2,
+        "goalDifference": 2,
+        "yellowCards": 3,
         "redCards": 0,
-        "fairPlay": -2,
+        "fairPlay": -3,
         "qualified": false,
         "mathematicallyQualified": false,
         "eliminated": false,
-        "position": 4,
+        "position": 1,
         "thirdPlaceStatus": "none"
       },
       {
@@ -550,27 +550,27 @@
         "qualified": false,
         "mathematicallyQualified": false,
         "eliminated": false,
-        "position": 1,
+        "position": 2,
         "thirdPlaceStatus": "none"
       },
       {
         "code": "NZL",
         "name": "New Zealand",
         "points": 1,
-        "played": 1,
+        "played": 2,
         "won": 0,
         "drawn": 1,
-        "lost": 0,
-        "goalsFor": 2,
-        "goalsAgainst": 2,
-        "goalDifference": 0,
-        "yellowCards": 0,
+        "lost": 1,
+        "goalsFor": 3,
+        "goalsAgainst": 5,
+        "goalDifference": -2,
+        "yellowCards": 2,
         "redCards": 0,
-        "fairPlay": 0,
+        "fairPlay": -2,
         "qualified": false,
         "mathematicallyQualified": false,
         "eliminated": false,
-        "position": 3,
+        "position": 4,
         "thirdPlaceStatus": "none"
       }
     ],
@@ -2851,33 +2851,58 @@
       "t2": "EGY",
       "grp": "G",
       "stad": "BC Place, Vancouver",
-      "status": "upcoming",
+      "status": "finished",
       "matchNum": 40,
       "stats": {
-        "goalsTeam1": 0,
-        "goalsTeam2": 0,
-        "possessionTeam1": 50,
-        "possessionTeam2": 50,
-        "shotsTeam1": 0,
-        "shotsTeam2": 0,
-        "shotsOnTargetTeam1": 0,
-        "shotsOnTargetTeam2": 0,
-        "cornersTeam1": 0,
-        "cornersTeam2": 0,
-        "foulsTeam1": 0,
-        "foulsTeam2": 0,
-        "yellowCardsTeam1": 0,
-        "yellowCardsTeam2": 0,
+        "goalsTeam1": 1,
+        "goalsTeam2": 3,
+        "possessionTeam1": 44,
+        "possessionTeam2": 56,
+        "shotsTeam1": 10,
+        "shotsTeam2": 19,
+        "shotsOnTargetTeam1": 5,
+        "shotsOnTargetTeam2": 7,
+        "cornersTeam1": 4,
+        "cornersTeam2": 3,
+        "foulsTeam1": 14,
+        "foulsTeam2": 8,
+        "yellowCardsTeam1": 2,
+        "yellowCardsTeam2": 1,
         "redCardsTeam1": 0,
         "redCardsTeam2": 0,
-        "offsidesTeam1": 0,
+        "offsidesTeam1": 3,
         "offsidesTeam2": 0,
-        "passesTeam1": 0,
-        "passesTeam2": 0,
-        "passAccuracyTeam1": 0,
-        "passAccuracyTeam2": 0
+        "passesTeam1": 366,
+        "passesTeam2": 476,
+        "passAccuracyTeam1": 82,
+        "passAccuracyTeam2": 88
       },
-      "scorers": []
+      "scorers": [
+        {
+          "name": "F. Surman",
+          "team": "team1",
+          "time": 15,
+          "type": "normal"
+        },
+        {
+          "name": "M. Ziko",
+          "team": "team2",
+          "time": 58,
+          "type": "normal"
+        },
+        {
+          "name": "M. Salah",
+          "team": "team2",
+          "time": 67,
+          "type": "normal"
+        },
+        {
+          "name": "Trézéguet",
+          "team": "team2",
+          "time": 82,
+          "type": "normal"
+        }
+      ]
     },
     {
       "date": "Saturday 27 June 2026",
@@ -5203,5 +5228,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-06-22T00:10:58.000Z"
+  "lastUpdated": "2026-06-22T06:44:42.000Z"
 }
