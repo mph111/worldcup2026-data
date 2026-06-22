@@ -1445,7 +1445,7 @@
       },
       "scorers": [
         {
-          "name": "C. Larin",
+          "name": "Cyle Larin",
           "team": "team1",
           "time": 16,
           "type": "normal"
@@ -1677,7 +1677,7 @@
       },
       "scorers": [
         {
-          "name": "I. Saibari",
+          "name": "Ismael Saibari",
           "team": "team2",
           "time": 2,
           "type": "normal"
@@ -1731,7 +1731,7 @@
           "type": "normal"
         },
         {
-          "name": "V. Júnior",
+          "name": "Vinícius Júnior",
           "team": "team1",
           "time": "45+3",
           "type": "normal"
@@ -2249,13 +2249,13 @@
           "type": "normal"
         },
         {
-          "name": "D. Undav",
+          "name": "Deniz Undav",
           "team": "team1",
           "time": 68,
           "type": "normal"
         },
         {
-          "name": "D. Undav",
+          "name": "Deniz Undav",
           "team": "team1",
           "time": "90+4",
           "type": "normal"
@@ -3662,13 +3662,13 @@
       },
       "scorers": [
         {
-          "name": "L. Messi",
+          "name": "Lionel Messi",
           "team": "team1",
           "time": 38,
           "type": "normal"
         },
         {
-          "name": "L. Messi",
+          "name": "Lionel Messi",
           "team": "team1",
           "time": "90+5",
           "type": "normal"
@@ -5241,5 +5241,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-06-22T20:08:42.000Z"
+  "lastUpdated": "2026-06-22T20:24:30.000Z"
 }
