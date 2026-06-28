@@ -57,9 +57,9 @@
         "fairPlay": -4,
         "qualified": false,
         "mathematicallyQualified": false,
-        "eliminated": false,
+        "eliminated": true,
         "position": 3,
-        "thirdPlaceStatus": "pending"
+        "thirdPlaceStatus": "eliminated"
       },
       {
         "code": "CZE",
@@ -549,9 +549,9 @@
         "fairPlay": -6,
         "qualified": false,
         "mathematicallyQualified": false,
-        "eliminated": false,
+        "eliminated": true,
         "position": 3,
-        "thirdPlaceStatus": "pending"
+        "thirdPlaceStatus": "eliminated"
       },
       {
         "code": "NZL",
@@ -742,18 +742,18 @@
       {
         "code": "ARG",
         "name": "Argentina",
-        "points": 6,
-        "played": 2,
-        "won": 2,
+        "points": 9,
+        "played": 3,
+        "won": 3,
         "drawn": 0,
         "lost": 0,
-        "goalsFor": 5,
-        "goalsAgainst": 0,
-        "goalDifference": 5,
+        "goalsFor": 8,
+        "goalsAgainst": 1,
+        "goalDifference": 7,
         "yellowCards": 2,
         "redCards": 0,
         "fairPlay": -2,
-        "qualified": false,
+        "qualified": true,
         "mathematicallyQualified": false,
         "eliminated": false,
         "position": 1,
@@ -762,18 +762,18 @@
       {
         "code": "AUT",
         "name": "Austria",
-        "points": 3,
-        "played": 2,
+        "points": 4,
+        "played": 3,
         "won": 1,
-        "drawn": 0,
+        "drawn": 1,
         "lost": 1,
-        "goalsFor": 3,
-        "goalsAgainst": 3,
+        "goalsFor": 6,
+        "goalsAgainst": 6,
         "goalDifference": 0,
-        "yellowCards": 3,
+        "yellowCards": 4,
         "redCards": 0,
-        "fairPlay": -3,
-        "qualified": false,
+        "fairPlay": -4,
+        "qualified": true,
         "mathematicallyQualified": false,
         "eliminated": false,
         "position": 2,
@@ -782,40 +782,40 @@
       {
         "code": "ALG",
         "name": "Algeria",
-        "points": 3,
-        "played": 2,
+        "points": 4,
+        "played": 3,
         "won": 1,
-        "drawn": 0,
+        "drawn": 1,
         "lost": 1,
-        "goalsFor": 2,
-        "goalsAgainst": 4,
+        "goalsFor": 5,
+        "goalsAgainst": 7,
         "goalDifference": -2,
         "yellowCards": 1,
         "redCards": 0,
         "fairPlay": -1,
-        "qualified": false,
+        "qualified": true,
         "mathematicallyQualified": false,
         "eliminated": false,
         "position": 3,
-        "thirdPlaceStatus": "none"
+        "thirdPlaceStatus": "qualified"
       },
       {
         "code": "JOR",
         "name": "Jordan",
         "points": 0,
-        "played": 2,
+        "played": 3,
         "won": 0,
         "drawn": 0,
-        "lost": 2,
-        "goalsFor": 2,
-        "goalsAgainst": 5,
-        "goalDifference": -3,
-        "yellowCards": 1,
+        "lost": 3,
+        "goalsFor": 3,
+        "goalsAgainst": 8,
+        "goalDifference": -5,
+        "yellowCards": 4,
         "redCards": 0,
-        "fairPlay": -1,
+        "fairPlay": -4,
         "qualified": false,
         "mathematicallyQualified": false,
-        "eliminated": false,
+        "eliminated": true,
         "position": 4,
         "thirdPlaceStatus": "none"
       }
@@ -824,19 +824,19 @@
       {
         "code": "COL",
         "name": "Colombia",
-        "points": 6,
-        "played": 2,
+        "points": 7,
+        "played": 3,
         "won": 2,
-        "drawn": 0,
+        "drawn": 1,
         "lost": 0,
         "goalsFor": 4,
         "goalsAgainst": 1,
         "goalDifference": 3,
-        "yellowCards": 3,
+        "yellowCards": 4,
         "redCards": 0,
-        "fairPlay": -3,
-        "qualified": false,
-        "mathematicallyQualified": true,
+        "fairPlay": -4,
+        "qualified": true,
+        "mathematicallyQualified": false,
         "eliminated": false,
         "position": 1,
         "thirdPlaceStatus": "none"
@@ -844,10 +844,10 @@
       {
         "code": "POR",
         "name": "Portugal",
-        "points": 4,
-        "played": 2,
+        "points": 5,
+        "played": 3,
         "won": 1,
-        "drawn": 1,
+        "drawn": 2,
         "lost": 0,
         "goalsFor": 6,
         "goalsAgainst": 1,
@@ -855,7 +855,7 @@
         "yellowCards": 4,
         "redCards": 0,
         "fairPlay": -4,
-        "qualified": false,
+        "qualified": true,
         "mathematicallyQualified": false,
         "eliminated": false,
         "position": 2,
@@ -864,40 +864,40 @@
       {
         "code": "COD",
         "name": "Congo DR",
-        "points": 1,
-        "played": 2,
-        "won": 0,
+        "points": 4,
+        "played": 3,
+        "won": 1,
         "drawn": 1,
         "lost": 1,
-        "goalsFor": 1,
-        "goalsAgainst": 2,
-        "goalDifference": -1,
-        "yellowCards": 2,
+        "goalsFor": 4,
+        "goalsAgainst": 3,
+        "goalDifference": 1,
+        "yellowCards": 5,
         "redCards": 0,
-        "fairPlay": -2,
-        "qualified": false,
+        "fairPlay": -5,
+        "qualified": true,
         "mathematicallyQualified": false,
         "eliminated": false,
         "position": 3,
-        "thirdPlaceStatus": "none"
+        "thirdPlaceStatus": "qualified"
       },
       {
         "code": "UZB",
         "name": "Uzbekistan",
         "points": 0,
-        "played": 2,
+        "played": 3,
         "won": 0,
         "drawn": 0,
-        "lost": 2,
-        "goalsFor": 1,
-        "goalsAgainst": 8,
-        "goalDifference": -7,
-        "yellowCards": 2,
+        "lost": 3,
+        "goalsFor": 2,
+        "goalsAgainst": 11,
+        "goalDifference": -9,
+        "yellowCards": 4,
         "redCards": 0,
-        "fairPlay": -2,
+        "fairPlay": -4,
         "qualified": false,
         "mathematicallyQualified": false,
-        "eliminated": false,
+        "eliminated": true,
         "position": 4,
         "thirdPlaceStatus": "none"
       }
@@ -906,80 +906,80 @@
       {
         "code": "ENG",
         "name": "England",
-        "points": 4,
-        "played": 2,
-        "won": 1,
+        "points": 7,
+        "played": 3,
+        "won": 2,
         "drawn": 1,
         "lost": 0,
-        "goalsFor": 4,
+        "goalsFor": 6,
         "goalsAgainst": 2,
-        "goalDifference": 2,
-        "yellowCards": 1,
+        "goalDifference": 4,
+        "yellowCards": 2,
         "redCards": 0,
-        "fairPlay": -1,
-        "qualified": false,
+        "fairPlay": -2,
+        "qualified": true,
         "mathematicallyQualified": false,
         "eliminated": false,
         "position": 1,
         "thirdPlaceStatus": "none"
       },
       {
-        "code": "GHA",
-        "name": "Ghana",
-        "points": 4,
-        "played": 2,
-        "won": 1,
-        "drawn": 1,
-        "lost": 0,
-        "goalsFor": 1,
-        "goalsAgainst": 0,
-        "goalDifference": 1,
+        "code": "CRO",
+        "name": "Croatia",
+        "points": 6,
+        "played": 3,
+        "won": 2,
+        "drawn": 0,
+        "lost": 1,
+        "goalsFor": 5,
+        "goalsAgainst": 5,
+        "goalDifference": 0,
         "yellowCards": 2,
         "redCards": 0,
         "fairPlay": -2,
-        "qualified": false,
+        "qualified": true,
         "mathematicallyQualified": false,
         "eliminated": false,
         "position": 2,
         "thirdPlaceStatus": "none"
       },
       {
-        "code": "CRO",
-        "name": "Croatia",
-        "points": 3,
-        "played": 2,
+        "code": "GHA",
+        "name": "Ghana",
+        "points": 4,
+        "played": 3,
         "won": 1,
-        "drawn": 0,
+        "drawn": 1,
         "lost": 1,
-        "goalsFor": 3,
-        "goalsAgainst": 4,
-        "goalDifference": -1,
-        "yellowCards": 1,
+        "goalsFor": 2,
+        "goalsAgainst": 2,
+        "goalDifference": 0,
+        "yellowCards": 3,
         "redCards": 0,
-        "fairPlay": -1,
-        "qualified": false,
+        "fairPlay": -3,
+        "qualified": true,
         "mathematicallyQualified": false,
         "eliminated": false,
         "position": 3,
-        "thirdPlaceStatus": "none"
+        "thirdPlaceStatus": "qualified"
       },
       {
         "code": "PAN",
         "name": "Panama",
         "points": 0,
-        "played": 2,
+        "played": 3,
         "won": 0,
         "drawn": 0,
-        "lost": 2,
+        "lost": 3,
         "goalsFor": 0,
-        "goalsAgainst": 2,
-        "goalDifference": -2,
-        "yellowCards": 3,
+        "goalsAgainst": 4,
+        "goalDifference": -4,
+        "yellowCards": 5,
         "redCards": 0,
-        "fairPlay": -3,
+        "fairPlay": -5,
         "qualified": false,
         "mathematicallyQualified": false,
-        "eliminated": false,
+        "eliminated": true,
         "position": 4,
         "thirdPlaceStatus": "none"
       }
@@ -1606,7 +1606,7 @@
           "name": "Sultan Al-Brake",
           "team": "team1",
           "time": 34,
-          "type": "normal"
+          "type": "owngoal"
         },
         {
           "name": "H. Al Haidos",
@@ -4132,33 +4132,70 @@
       "t2": "AUT",
       "grp": "J",
       "stad": "Arrowhead Stadium, Kansas City",
-      "status": "upcoming",
+      "status": "finished",
       "matchNum": 69,
       "stats": {
-        "goalsTeam1": 0,
-        "goalsTeam2": 0,
-        "possessionTeam1": 50,
-        "possessionTeam2": 50,
-        "shotsTeam1": 0,
-        "shotsTeam2": 0,
-        "shotsOnTargetTeam1": 0,
-        "shotsOnTargetTeam2": 0,
+        "goalsTeam1": 3,
+        "goalsTeam2": 3,
+        "possessionTeam1": 60,
+        "possessionTeam2": 40,
+        "shotsTeam1": 11,
+        "shotsTeam2": 11,
+        "shotsOnTargetTeam1": 5,
+        "shotsOnTargetTeam2": 4,
         "cornersTeam1": 0,
-        "cornersTeam2": 0,
-        "foulsTeam1": 0,
-        "foulsTeam2": 0,
+        "cornersTeam2": 3,
+        "foulsTeam1": 3,
+        "foulsTeam2": 7,
         "yellowCardsTeam1": 0,
-        "yellowCardsTeam2": 0,
+        "yellowCardsTeam2": 1,
         "redCardsTeam1": 0,
         "redCardsTeam2": 0,
-        "offsidesTeam1": 0,
-        "offsidesTeam2": 0,
-        "passesTeam1": 0,
-        "passesTeam2": 0,
-        "passAccuracyTeam1": 0,
-        "passAccuracyTeam2": 0
+        "offsidesTeam1": 1,
+        "offsidesTeam2": 3,
+        "passesTeam1": 717,
+        "passesTeam2": 391,
+        "passAccuracyTeam1": 94,
+        "passAccuracyTeam2": 89
       },
-      "scorers": []
+      "scorers": [
+        {
+          "name": "M. Arnautović",
+          "team": "team2",
+          "time": 28,
+          "type": "normal"
+        },
+        {
+          "name": "R. Belghali",
+          "team": "team1",
+          "time": 45,
+          "type": "normal"
+        },
+        {
+          "name": "M. Sabitzer",
+          "team": "team2",
+          "time": 55,
+          "type": "normal"
+        },
+        {
+          "name": "R. Mahrez",
+          "team": "team1",
+          "time": 60,
+          "type": "normal"
+        },
+        {
+          "name": "R. Mahrez",
+          "team": "team1",
+          "time": "90+3",
+          "type": "normal"
+        },
+        {
+          "name": "Sasa Kalajdzic",
+          "team": "team2",
+          "time": "90+6",
+          "type": "normal"
+        }
+      ]
     },
     {
       "date": "Sunday 28 June 2026",
@@ -4167,33 +4204,58 @@
       "t2": "ARG",
       "grp": "J",
       "stad": "AT&T Stadium, Arlington",
-      "status": "upcoming",
+      "status": "finished",
       "matchNum": 70,
       "stats": {
-        "goalsTeam1": 0,
-        "goalsTeam2": 0,
-        "possessionTeam1": 50,
-        "possessionTeam2": 50,
-        "shotsTeam1": 0,
-        "shotsTeam2": 0,
-        "shotsOnTargetTeam1": 0,
-        "shotsOnTargetTeam2": 0,
-        "cornersTeam1": 0,
-        "cornersTeam2": 0,
-        "foulsTeam1": 0,
-        "foulsTeam2": 0,
-        "yellowCardsTeam1": 0,
+        "goalsTeam1": 1,
+        "goalsTeam2": 3,
+        "possessionTeam1": 30,
+        "possessionTeam2": 70,
+        "shotsTeam1": 5,
+        "shotsTeam2": 13,
+        "shotsOnTargetTeam1": 1,
+        "shotsOnTargetTeam2": 5,
+        "cornersTeam1": 2,
+        "cornersTeam2": 6,
+        "foulsTeam1": 12,
+        "foulsTeam2": 7,
+        "yellowCardsTeam1": 3,
         "yellowCardsTeam2": 0,
         "redCardsTeam1": 0,
         "redCardsTeam2": 0,
-        "offsidesTeam1": 0,
-        "offsidesTeam2": 0,
-        "passesTeam1": 0,
-        "passesTeam2": 0,
-        "passAccuracyTeam1": 0,
-        "passAccuracyTeam2": 0
+        "offsidesTeam1": 1,
+        "offsidesTeam2": 3,
+        "passesTeam1": 273,
+        "passesTeam2": 780,
+        "passAccuracyTeam1": 81,
+        "passAccuracyTeam2": 93
       },
-      "scorers": []
+      "scorers": [
+        {
+          "name": "G. Lo Celso",
+          "team": "team2",
+          "time": 19,
+          "type": "normal"
+        },
+        {
+          "name": "Lautaro Martinez",
+          "team": "team2",
+          "time": 31,
+          "type": "penalty"
+        },
+        {
+          "name": "Mousa Altamari",
+          "team": "team1",
+          "time": 55,
+          "type": "normal"
+        },
+        {
+          "name": "Lionel Messi",
+          "team": "team2",
+          "time": 80,
+          "type": "normal"
+        }
+      ]
     },
     {
       "date": "Wednesday 17 June 2026",
@@ -4418,31 +4480,31 @@
       "t2": "POR",
       "grp": "K",
       "stad": "Hard Rock Stadium, Miami Gardens",
-      "status": "upcoming",
+      "status": "finished",
       "matchNum": 71,
       "stats": {
         "goalsTeam1": 0,
         "goalsTeam2": 0,
-        "possessionTeam1": 50,
-        "possessionTeam2": 50,
-        "shotsTeam1": 0,
-        "shotsTeam2": 0,
-        "shotsOnTargetTeam1": 0,
-        "shotsOnTargetTeam2": 0,
-        "cornersTeam1": 0,
-        "cornersTeam2": 0,
-        "foulsTeam1": 0,
-        "foulsTeam2": 0,
-        "yellowCardsTeam1": 0,
+        "possessionTeam1": 55,
+        "possessionTeam2": 45,
+        "shotsTeam1": 26,
+        "shotsTeam2": 13,
+        "shotsOnTargetTeam1": 6,
+        "shotsOnTargetTeam2": 2,
+        "cornersTeam1": 5,
+        "cornersTeam2": 2,
+        "foulsTeam1": 12,
+        "foulsTeam2": 6,
+        "yellowCardsTeam1": 1,
         "yellowCardsTeam2": 0,
         "redCardsTeam1": 0,
         "redCardsTeam2": 0,
-        "offsidesTeam1": 0,
-        "offsidesTeam2": 0,
-        "passesTeam1": 0,
-        "passesTeam2": 0,
-        "passAccuracyTeam1": 0,
-        "passAccuracyTeam2": 0
+        "offsidesTeam1": 3,
+        "offsidesTeam2": 2,
+        "passesTeam1": 525,
+        "passesTeam2": 423,
+        "passAccuracyTeam1": 91,
+        "passAccuracyTeam2": 93
       },
       "scorers": []
     },
@@ -4453,33 +4515,58 @@
       "t2": "UZB",
       "grp": "K",
       "stad": "Mercedes-Benz Stadium, Atlanta",
-      "status": "upcoming",
+      "status": "finished",
       "matchNum": 72,
       "stats": {
-        "goalsTeam1": 0,
-        "goalsTeam2": 0,
-        "possessionTeam1": 50,
-        "possessionTeam2": 50,
-        "shotsTeam1": 0,
-        "shotsTeam2": 0,
-        "shotsOnTargetTeam1": 0,
-        "shotsOnTargetTeam2": 0,
-        "cornersTeam1": 0,
-        "cornersTeam2": 0,
-        "foulsTeam1": 0,
-        "foulsTeam2": 0,
-        "yellowCardsTeam1": 0,
-        "yellowCardsTeam2": 0,
+        "goalsTeam1": 3,
+        "goalsTeam2": 1,
+        "possessionTeam1": 58,
+        "possessionTeam2": 42,
+        "shotsTeam1": 19,
+        "shotsTeam2": 3,
+        "shotsOnTargetTeam1": 4,
+        "shotsOnTargetTeam2": 1,
+        "cornersTeam1": 2,
+        "cornersTeam2": 4,
+        "foulsTeam1": 6,
+        "foulsTeam2": 15,
+        "yellowCardsTeam1": 3,
+        "yellowCardsTeam2": 2,
         "redCardsTeam1": 0,
         "redCardsTeam2": 0,
-        "offsidesTeam1": 0,
-        "offsidesTeam2": 0,
-        "passesTeam1": 0,
-        "passesTeam2": 0,
-        "passAccuracyTeam1": 0,
-        "passAccuracyTeam2": 0
+        "offsidesTeam1": 3,
+        "offsidesTeam2": 1,
+        "passesTeam1": 473,
+        "passesTeam2": 350,
+        "passAccuracyTeam1": 86,
+        "passAccuracyTeam2": 76
       },
-      "scorers": []
+      "scorers": [
+        {
+          "name": "E. Shomurodov",
+          "team": "team2",
+          "time": 10,
+          "type": "normal"
+        },
+        {
+          "name": "Yoane Wissa",
+          "team": "team1",
+          "time": 68,
+          "type": "penalty"
+        },
+        {
+          "name": "Fiston Kalala Mayele",
+          "team": "team1",
+          "time": 78,
+          "type": "normal"
+        },
+        {
+          "name": "Yoane Wissa",
+          "team": "team1",
+          "time": "90+1",
+          "type": "normal"
+        }
+      ]
     },
     {
       "date": "Wednesday 17 June 2026",
@@ -4679,33 +4766,46 @@
       "t2": "ENG",
       "grp": "L",
       "stad": "MetLife Stadium, East Rutherford",
-      "status": "upcoming",
+      "status": "finished",
       "matchNum": 67,
       "stats": {
         "goalsTeam1": 0,
-        "goalsTeam2": 0,
-        "possessionTeam1": 50,
-        "possessionTeam2": 50,
-        "shotsTeam1": 0,
-        "shotsTeam2": 0,
-        "shotsOnTargetTeam1": 0,
-        "shotsOnTargetTeam2": 0,
-        "cornersTeam1": 0,
-        "cornersTeam2": 0,
-        "foulsTeam1": 0,
-        "foulsTeam2": 0,
-        "yellowCardsTeam1": 0,
-        "yellowCardsTeam2": 0,
+        "goalsTeam2": 2,
+        "possessionTeam1": 32,
+        "possessionTeam2": 68,
+        "shotsTeam1": 9,
+        "shotsTeam2": 17,
+        "shotsOnTargetTeam1": 2,
+        "shotsOnTargetTeam2": 8,
+        "cornersTeam1": 3,
+        "cornersTeam2": 7,
+        "foulsTeam1": 16,
+        "foulsTeam2": 13,
+        "yellowCardsTeam1": 2,
+        "yellowCardsTeam2": 1,
         "redCardsTeam1": 0,
         "redCardsTeam2": 0,
-        "offsidesTeam1": 0,
-        "offsidesTeam2": 0,
-        "passesTeam1": 0,
-        "passesTeam2": 0,
-        "passAccuracyTeam1": 0,
-        "passAccuracyTeam2": 0
+        "offsidesTeam1": 4,
+        "offsidesTeam2": 4,
+        "passesTeam1": 265,
+        "passesTeam2": 533,
+        "passAccuracyTeam1": 75,
+        "passAccuracyTeam2": 90
       },
-      "scorers": []
+      "scorers": [
+        {
+          "name": "Jude Bellingham",
+          "team": "team2",
+          "time": 62,
+          "type": "normal"
+        },
+        {
+          "name": "Harry Kane",
+          "team": "team2",
+          "time": 67,
+          "type": "normal"
+        }
+      ]
     },
     {
       "date": "Saturday 27 June 2026",
@@ -4714,33 +4814,52 @@
       "t2": "GHA",
       "grp": "L",
       "stad": "Lincoln Financial Field, Philadelphia",
-      "status": "upcoming",
+      "status": "finished",
       "matchNum": 68,
       "stats": {
-        "goalsTeam1": 0,
-        "goalsTeam2": 0,
-        "possessionTeam1": 50,
-        "possessionTeam2": 50,
-        "shotsTeam1": 0,
-        "shotsTeam2": 0,
-        "shotsOnTargetTeam1": 0,
-        "shotsOnTargetTeam2": 0,
-        "cornersTeam1": 0,
-        "cornersTeam2": 0,
-        "foulsTeam1": 0,
-        "foulsTeam2": 0,
-        "yellowCardsTeam1": 0,
-        "yellowCardsTeam2": 0,
+        "goalsTeam1": 2,
+        "goalsTeam2": 1,
+        "possessionTeam1": 53,
+        "possessionTeam2": 47,
+        "shotsTeam1": 8,
+        "shotsTeam2": 6,
+        "shotsOnTargetTeam1": 4,
+        "shotsOnTargetTeam2": 1,
+        "cornersTeam1": 3,
+        "cornersTeam2": 2,
+        "foulsTeam1": 9,
+        "foulsTeam2": 13,
+        "yellowCardsTeam1": 1,
+        "yellowCardsTeam2": 1,
         "redCardsTeam1": 0,
         "redCardsTeam2": 0,
-        "offsidesTeam1": 0,
-        "offsidesTeam2": 0,
-        "passesTeam1": 0,
-        "passesTeam2": 0,
-        "passAccuracyTeam1": 0,
-        "passAccuracyTeam2": 0
+        "offsidesTeam1": 1,
+        "offsidesTeam2": 2,
+        "passesTeam1": 525,
+        "passesTeam2": 437,
+        "passAccuracyTeam1": 92,
+        "passAccuracyTeam2": 88
       },
-      "scorers": []
+      "scorers": [
+        {
+          "name": "Petar Sucic",
+          "team": "team1",
+          "time": 31,
+          "type": "normal"
+        },
+        {
+          "name": "Derrick Luckassen",
+          "team": "team2",
+          "time": 73,
+          "type": "normal"
+        },
+        {
+          "name": "Nikola Vlasic",
+          "team": "team1",
+          "time": 83,
+          "type": "normal"
+        }
+      ]
     }
   ],
   "knockout": {
@@ -4803,7 +4922,7 @@
         },
         "scorers": [],
         "actualT1": "GER",
-        "actualT2": null
+        "actualT2": "PAR"
       },
       {
         "id": 75,
@@ -4893,7 +5012,7 @@
         },
         "scorers": [],
         "actualT1": "FRA",
-        "actualT2": null
+        "actualT2": "SWE"
       },
       {
         "id": 78,
@@ -4953,7 +5072,7 @@
         },
         "scorers": [],
         "actualT1": "MEX",
-        "actualT2": null
+        "actualT2": "ECU"
       },
       {
         "id": 80,
@@ -4982,8 +5101,8 @@
           "foulsTeam2": 0
         },
         "scorers": [],
-        "actualT1": null,
-        "actualT2": null
+        "actualT1": "ENG",
+        "actualT2": "COD"
       },
       {
         "id": 81,
@@ -5013,7 +5132,7 @@
         },
         "scorers": [],
         "actualT1": "USA",
-        "actualT2": null
+        "actualT2": "BIH"
       },
       {
         "id": 82,
@@ -5043,7 +5162,7 @@
         },
         "scorers": [],
         "actualT1": "BEL",
-        "actualT2": null
+        "actualT2": "SEN"
       },
       {
         "id": 83,
@@ -5072,8 +5191,8 @@
           "foulsTeam2": 0
         },
         "scorers": [],
-        "actualT1": null,
-        "actualT2": null
+        "actualT1": "POR",
+        "actualT2": "CRO"
       },
       {
         "id": 84,
@@ -5103,7 +5222,7 @@
         },
         "scorers": [],
         "actualT1": "ESP",
-        "actualT2": null
+        "actualT2": "AUT"
       },
       {
         "id": 85,
@@ -5133,7 +5252,7 @@
         },
         "scorers": [],
         "actualT1": "SUI",
-        "actualT2": null
+        "actualT2": "ALG"
       },
       {
         "id": 86,
@@ -5162,7 +5281,7 @@
           "foulsTeam2": 0
         },
         "scorers": [],
-        "actualT1": null,
+        "actualT1": "ARG",
         "actualT2": "CPV"
       },
       {
@@ -5193,7 +5312,7 @@
         },
         "scorers": [],
         "actualT1": "COL",
-        "actualT2": null
+        "actualT2": "GHA"
       },
       {
         "id": 88,
@@ -5701,5 +5820,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-06-27T05:38:25.872Z"
+  "lastUpdated": "2026-06-28T04:08:42.823Z"
 }
