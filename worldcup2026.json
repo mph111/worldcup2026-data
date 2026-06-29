@@ -4872,23 +4872,33 @@
         "stad": "SoFi Stadium, Inglewood",
         "t1": "2A",
         "t2": "2B",
-        "status": "upcoming",
+        "status": "finished",
         "stats": {
           "goalsTeam1": 0,
-          "goalsTeam2": 0,
+          "goalsTeam2": 1,
           "penaltyTeam1": 0,
           "penaltyTeam2": 0,
           "wentToPenalty": false,
           "yellowCardsTeam1": 0,
-          "yellowCardsTeam2": 0,
+          "yellowCardsTeam2": 2,
           "redCardsTeam1": 0,
           "redCardsTeam2": 0,
-          "shotsTeam1": 0,
-          "shotsTeam2": 0,
-          "cornersTeam1": 0,
-          "cornersTeam2": 0,
-          "foulsTeam1": 0,
-          "foulsTeam2": 0
+          "shotsTeam1": 2,
+          "shotsTeam2": 7,
+          "cornersTeam1": 1,
+          "cornersTeam2": 4,
+          "foulsTeam1": 10,
+          "foulsTeam2": 15,
+          "possessionTeam1": 58,
+          "shotsOnTargetTeam1": 6,
+          "offsidesTeam1": 1,
+          "passesTeam1": 538,
+          "passAccuracyTeam1": 86,
+          "possessionTeam2": 42,
+          "shotsOnTargetTeam2": 14,
+          "offsidesTeam2": 0,
+          "passesTeam2": 392,
+          "passAccuracyTeam2": 82
         },
         "scorers": [],
         "actualT1": "RSA",
@@ -5401,7 +5411,7 @@
           "foulsTeam2": 0
         },
         "scorers": [],
-        "actualT1": null,
+        "actualT1": "CAN",
         "actualT2": null
       },
       {
@@ -5820,5 +5830,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-06-28T04:08:42.823Z"
+  "lastUpdated": "2026-06-29T04:45:58.612Z"
 }
