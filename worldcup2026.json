@@ -988,6 +988,7 @@
   "schedule": [
     {
       "date": "Thursday 11 June 2026",
+      "isoDate": "2026-06-11",
       "time": "19:00",
       "t1": "MEX",
       "t2": "RSA",
@@ -1036,6 +1037,7 @@
     },
     {
       "date": "Friday 12 June 2026",
+      "isoDate": "2026-06-12",
       "time": "02:00",
       "t1": "KOR",
       "t2": "CZE",
@@ -1090,6 +1092,7 @@
     },
     {
       "date": "Thursday 18 June 2026",
+      "isoDate": "2026-06-18",
       "time": "16:00",
       "t1": "CZE",
       "t2": "RSA",
@@ -1138,6 +1141,7 @@
     },
     {
       "date": "Friday 19 June 2026",
+      "isoDate": "2026-06-19",
       "time": "01:00",
       "t1": "MEX",
       "t2": "KOR",
@@ -1180,6 +1184,7 @@
     },
     {
       "date": "Thursday 25 June 2026",
+      "isoDate": "2026-06-25",
       "time": "01:00",
       "t1": "CZE",
       "t2": "MEX",
@@ -1234,6 +1239,7 @@
     },
     {
       "date": "Thursday 25 June 2026",
+      "isoDate": "2026-06-25",
       "time": "01:00",
       "t1": "RSA",
       "t2": "KOR",
@@ -1276,6 +1282,7 @@
     },
     {
       "date": "Friday 12 June 2026",
+      "isoDate": "2026-06-12",
       "time": "19:00",
       "t1": "CAN",
       "t2": "BIH",
@@ -1324,6 +1331,7 @@
     },
     {
       "date": "Saturday 13 June 2026",
+      "isoDate": "2026-06-13",
       "time": "19:00",
       "t1": "QAT",
       "t2": "SUI",
@@ -1372,6 +1380,7 @@
     },
     {
       "date": "Thursday 18 June 2026",
+      "isoDate": "2026-06-18",
       "time": "19:00",
       "t1": "SUI",
       "t2": "BIH",
@@ -1438,6 +1447,7 @@
     },
     {
       "date": "Thursday 18 June 2026",
+      "isoDate": "2026-06-18",
       "time": "22:00",
       "t1": "CAN",
       "t2": "QAT",
@@ -1510,6 +1520,7 @@
     },
     {
       "date": "Wednesday 24 June 2026",
+      "isoDate": "2026-06-24",
       "time": "19:00",
       "t1": "SUI",
       "t2": "CAN",
@@ -1564,6 +1575,7 @@
     },
     {
       "date": "Wednesday 24 June 2026",
+      "isoDate": "2026-06-24",
       "time": "19:00",
       "t1": "BIH",
       "t2": "QAT",
@@ -1624,6 +1636,7 @@
     },
     {
       "date": "Saturday 13 June 2026",
+      "isoDate": "2026-06-13",
       "time": "22:00",
       "t1": "BRA",
       "t2": "MAR",
@@ -1672,6 +1685,7 @@
     },
     {
       "date": "Sunday 14 June 2026",
+      "isoDate": "2026-06-14",
       "time": "01:00",
       "t1": "HAI",
       "t2": "SCO",
@@ -1714,6 +1728,7 @@
     },
     {
       "date": "Friday 19 June 2026",
+      "isoDate": "2026-06-19",
       "time": "22:00",
       "t1": "SCO",
       "t2": "MAR",
@@ -1756,6 +1771,7 @@
     },
     {
       "date": "Saturday 20 June 2026",
+      "isoDate": "2026-06-20",
       "time": "01:00",
       "t1": "BRA",
       "t2": "HAI",
@@ -1810,6 +1826,7 @@
     },
     {
       "date": "Wednesday 24 June 2026",
+      "isoDate": "2026-06-24",
       "time": "22:00",
       "t1": "SCO",
       "t2": "BRA",
@@ -1864,6 +1881,7 @@
     },
     {
       "date": "Wednesday 24 June 2026",
+      "isoDate": "2026-06-24",
       "time": "22:00",
       "t1": "MAR",
       "t2": "HAI",
@@ -1936,6 +1954,7 @@
     },
     {
       "date": "Saturday 13 June 2026",
+      "isoDate": "2026-06-13",
       "time": "01:00",
       "t1": "USA",
       "t2": "PAR",
@@ -2002,6 +2021,7 @@
     },
     {
       "date": "Sunday 14 June 2026",
+      "isoDate": "2026-06-14",
       "time": "04:00",
       "t1": "AUS",
       "t2": "TUR",
@@ -2050,6 +2070,7 @@
     },
     {
       "date": "Friday 19 June 2026",
+      "isoDate": "2026-06-19",
       "time": "19:00",
       "t1": "USA",
       "t2": "AUS",
@@ -2098,6 +2119,7 @@
     },
     {
       "date": "Saturday 20 June 2026",
+      "isoDate": "2026-06-20",
       "time": "04:00",
       "t1": "TUR",
       "t2": "PAR",
@@ -2140,6 +2162,7 @@
     },
     {
       "date": "Friday 26 June 2026",
+      "isoDate": "2026-06-26",
       "time": "02:00",
       "t1": "TUR",
       "t2": "USA",
@@ -2206,6 +2229,7 @@
     },
     {
       "date": "Friday 26 June 2026",
+      "isoDate": "2026-06-26",
       "time": "02:00",
       "t1": "PAR",
       "t2": "AUS",
@@ -2241,6 +2265,7 @@
     },
     {
       "date": "Sunday 14 June 2026",
+      "isoDate": "2026-06-14",
       "time": "17:00",
       "t1": "GER",
       "t2": "CUW",
@@ -2325,6 +2350,7 @@
     },
     {
       "date": "Sunday 14 June 2026",
+      "isoDate": "2026-06-14",
       "time": "23:00",
       "t1": "CIV",
       "t2": "ECU",
@@ -2367,6 +2393,7 @@
     },
     {
       "date": "Saturday 20 June 2026",
+      "isoDate": "2026-06-20",
       "time": "20:00",
       "t1": "GER",
       "t2": "CIV",
@@ -2421,6 +2448,7 @@
     },
     {
       "date": "Sunday 21 June 2026",
+      "isoDate": "2026-06-21",
       "time": "00:00",
       "t1": "ECU",
       "t2": "CUW",
@@ -2456,6 +2484,7 @@
     },
     {
       "date": "Thursday 25 June 2026",
+      "isoDate": "2026-06-25",
       "time": "20:00",
       "t1": "CUW",
       "t2": "CIV",
@@ -2504,6 +2533,7 @@
     },
     {
       "date": "Thursday 25 June 2026",
+      "isoDate": "2026-06-25",
       "time": "20:00",
       "t1": "ECU",
       "t2": "GER",
@@ -2558,6 +2588,7 @@
     },
     {
       "date": "Sunday 14 June 2026",
+      "isoDate": "2026-06-14",
       "time": "20:00",
       "t1": "NED",
       "t2": "JPN",
@@ -2618,6 +2649,7 @@
     },
     {
       "date": "Monday 15 June 2026",
+      "isoDate": "2026-06-15",
       "time": "02:00",
       "t1": "SWE",
       "t2": "TUN",
@@ -2690,6 +2722,7 @@
     },
     {
       "date": "Saturday 20 June 2026",
+      "isoDate": "2026-06-20",
       "time": "17:00",
       "t1": "NED",
       "t2": "SWE",
@@ -2762,6 +2795,7 @@
     },
     {
       "date": "Sunday 21 June 2026",
+      "isoDate": "2026-06-21",
       "time": "04:00",
       "t1": "TUN",
       "t2": "JPN",
@@ -2822,6 +2856,7 @@
     },
     {
       "date": "Wednesday 24 June 2026",
+      "isoDate": "2026-06-24",
       "time": "23:00",
       "t1": "JPN",
       "t2": "SWE",
@@ -2870,6 +2905,7 @@
     },
     {
       "date": "Wednesday 24 June 2026",
+      "isoDate": "2026-06-24",
       "time": "23:00",
       "t1": "TUN",
       "t2": "NED",
@@ -2930,6 +2966,7 @@
     },
     {
       "date": "Monday 15 June 2026",
+      "isoDate": "2026-06-15",
       "time": "19:00",
       "t1": "BEL",
       "t2": "EGY",
@@ -2978,6 +3015,7 @@
     },
     {
       "date": "Tuesday 16 June 2026",
+      "isoDate": "2026-06-16",
       "time": "01:00",
       "t1": "IRN",
       "t2": "NZL",
@@ -3038,6 +3076,7 @@
     },
     {
       "date": "Sunday 21 June 2026",
+      "isoDate": "2026-06-21",
       "time": "19:00",
       "t1": "BEL",
       "t2": "IRN",
@@ -3073,6 +3112,7 @@
     },
     {
       "date": "Monday 22 June 2026",
+      "isoDate": "2026-06-22",
       "time": "01:00",
       "t1": "NZL",
       "t2": "EGY",
@@ -3133,6 +3173,7 @@
     },
     {
       "date": "Saturday 27 June 2026",
+      "isoDate": "2026-06-27",
       "time": "03:00",
       "t1": "EGY",
       "t2": "IRN",
@@ -3181,6 +3222,7 @@
     },
     {
       "date": "Saturday 27 June 2026",
+      "isoDate": "2026-06-27",
       "time": "03:00",
       "t1": "NZL",
       "t2": "BEL",
@@ -3253,6 +3295,7 @@
     },
     {
       "date": "Monday 15 June 2026",
+      "isoDate": "2026-06-15",
       "time": "16:00",
       "t1": "ESP",
       "t2": "CPV",
@@ -3288,6 +3331,7 @@
     },
     {
       "date": "Monday 15 June 2026",
+      "isoDate": "2026-06-15",
       "time": "22:00",
       "t1": "KSA",
       "t2": "URU",
@@ -3336,6 +3380,7 @@
     },
     {
       "date": "Sunday 21 June 2026",
+      "isoDate": "2026-06-21",
       "time": "16:00",
       "t1": "ESP",
       "t2": "KSA",
@@ -3396,6 +3441,7 @@
     },
     {
       "date": "Sunday 21 June 2026",
+      "isoDate": "2026-06-21",
       "time": "22:00",
       "t1": "URU",
       "t2": "CPV",
@@ -3456,6 +3502,7 @@
     },
     {
       "date": "Saturday 27 June 2026",
+      "isoDate": "2026-06-27",
       "time": "00:00",
       "t1": "CPV",
       "t2": "KSA",
@@ -3491,6 +3538,7 @@
     },
     {
       "date": "Saturday 27 June 2026",
+      "isoDate": "2026-06-27",
       "time": "00:00",
       "t1": "URU",
       "t2": "ESP",
@@ -3533,6 +3581,7 @@
     },
     {
       "date": "Tuesday 16 June 2026",
+      "isoDate": "2026-06-16",
       "time": "19:00",
       "t1": "FRA",
       "t2": "SEN",
@@ -3593,6 +3642,7 @@
     },
     {
       "date": "Tuesday 16 June 2026",
+      "isoDate": "2026-06-16",
       "time": "22:00",
       "t1": "IRQ",
       "t2": "NOR",
@@ -3659,6 +3709,7 @@
     },
     {
       "date": "Monday 22 June 2026",
+      "isoDate": "2026-06-22",
       "time": "21:00",
       "t1": "FRA",
       "t2": "IRQ",
@@ -3713,6 +3764,7 @@
     },
     {
       "date": "Tuesday 23 June 2026",
+      "isoDate": "2026-06-23",
       "time": "00:00",
       "t1": "NOR",
       "t2": "SEN",
@@ -3779,6 +3831,7 @@
     },
     {
       "date": "Friday 26 June 2026",
+      "isoDate": "2026-06-26",
       "time": "19:00",
       "t1": "NOR",
       "t2": "FRA",
@@ -3845,6 +3898,7 @@
     },
     {
       "date": "Friday 26 June 2026",
+      "isoDate": "2026-06-26",
       "time": "19:00",
       "t1": "SEN",
       "t2": "IRQ",
@@ -3911,6 +3965,7 @@
     },
     {
       "date": "Wednesday 17 June 2026",
+      "isoDate": "2026-06-17",
       "time": "01:00",
       "t1": "ARG",
       "t2": "ALG",
@@ -3965,6 +4020,7 @@
     },
     {
       "date": "Wednesday 17 June 2026",
+      "isoDate": "2026-06-17",
       "time": "04:00",
       "t1": "AUT",
       "t2": "JOR",
@@ -4025,6 +4081,7 @@
     },
     {
       "date": "Monday 22 June 2026",
+      "isoDate": "2026-06-22",
       "time": "17:00",
       "t1": "ARG",
       "t2": "AUT",
@@ -4073,6 +4130,7 @@
     },
     {
       "date": "Tuesday 23 June 2026",
+      "isoDate": "2026-06-23",
       "time": "03:00",
       "t1": "JOR",
       "t2": "ALG",
@@ -4127,6 +4185,7 @@
     },
     {
       "date": "Sunday 28 June 2026",
+      "isoDate": "2026-06-28",
       "time": "03:00",
       "t1": "ALG",
       "t2": "AUT",
@@ -4199,6 +4258,7 @@
     },
     {
       "date": "Sunday 28 June 2026",
+      "isoDate": "2026-06-28",
       "time": "03:00",
       "t1": "JOR",
       "t2": "ARG",
@@ -4259,6 +4319,7 @@
     },
     {
       "date": "Wednesday 17 June 2026",
+      "isoDate": "2026-06-17",
       "time": "17:00",
       "t1": "POR",
       "t2": "COD",
@@ -4307,6 +4368,7 @@
     },
     {
       "date": "Thursday 18 June 2026",
+      "isoDate": "2026-06-18",
       "time": "02:00",
       "t1": "UZB",
       "t2": "COL",
@@ -4367,6 +4429,7 @@
     },
     {
       "date": "Tuesday 23 June 2026",
+      "isoDate": "2026-06-23",
       "time": "17:00",
       "t1": "POR",
       "t2": "UZB",
@@ -4433,6 +4496,7 @@
     },
     {
       "date": "Wednesday 24 June 2026",
+      "isoDate": "2026-06-24",
       "time": "02:00",
       "t1": "COL",
       "t2": "COD",
@@ -4475,6 +4539,7 @@
     },
     {
       "date": "Sunday 28 June 2026",
+      "isoDate": "2026-06-28",
       "time": "00:30",
       "t1": "COL",
       "t2": "POR",
@@ -4510,6 +4575,7 @@
     },
     {
       "date": "Sunday 28 June 2026",
+      "isoDate": "2026-06-28",
       "time": "00:30",
       "t1": "COD",
       "t2": "UZB",
@@ -4570,6 +4636,7 @@
     },
     {
       "date": "Wednesday 17 June 2026",
+      "isoDate": "2026-06-17",
       "time": "20:00",
       "t1": "ENG",
       "t2": "CRO",
@@ -4642,6 +4709,7 @@
     },
     {
       "date": "Wednesday 17 June 2026",
+      "isoDate": "2026-06-17",
       "time": "23:00",
       "t1": "GHA",
       "t2": "PAN",
@@ -4684,6 +4752,7 @@
     },
     {
       "date": "Tuesday 23 June 2026",
+      "isoDate": "2026-06-23",
       "time": "20:00",
       "t1": "ENG",
       "t2": "GHA",
@@ -4719,6 +4788,7 @@
     },
     {
       "date": "Tuesday 23 June 2026",
+      "isoDate": "2026-06-23",
       "time": "23:00",
       "t1": "PAN",
       "t2": "CRO",
@@ -4761,6 +4831,7 @@
     },
     {
       "date": "Saturday 27 June 2026",
+      "isoDate": "2026-06-27",
       "time": "21:00",
       "t1": "PAN",
       "t2": "ENG",
@@ -4809,6 +4880,7 @@
     },
     {
       "date": "Saturday 27 June 2026",
+      "isoDate": "2026-06-27",
       "time": "21:00",
       "t1": "CRO",
       "t2": "GHA",
@@ -4868,6 +4940,7 @@
         "id": 73,
         "matchNum": 73,
         "date": "Sunday 28 June 2026",
+        "isoDate": "2026-06-28",
         "time": "19:00",
         "stad": "SoFi Stadium, Inglewood",
         "t1": "2A",
@@ -4883,24 +4956,21 @@
           "yellowCardsTeam2": 2,
           "redCardsTeam1": 0,
           "redCardsTeam2": 0,
-          "shotsTeam1": 2,
-          "shotsTeam2": 7,
+          "shotsTeam1": 6,
+          "shotsTeam2": 14,
           "cornersTeam1": 1,
           "cornersTeam2": 4,
           "foulsTeam1": 10,
-          "foulsTeam2": 15,
-          "possessionTeam1": 58,
-          "shotsOnTargetTeam1": 6,
-          "offsidesTeam1": 1,
-          "passesTeam1": 538,
-          "passAccuracyTeam1": 86,
-          "possessionTeam2": 42,
-          "shotsOnTargetTeam2": 14,
-          "offsidesTeam2": 0,
-          "passesTeam2": 392,
-          "passAccuracyTeam2": 82
+          "foulsTeam2": 15
         },
-        "scorers": [],
+        "scorers": [
+          {
+            "name": "Stephen Eustáquio",
+            "team": "team2",
+            "time": "90+2",
+            "type": "normal"
+          }
+        ],
         "actualT1": "RSA",
         "actualT2": "CAN"
       },
@@ -4908,29 +4978,43 @@
         "id": 74,
         "matchNum": 74,
         "date": "Monday 29 June 2026",
+        "isoDate": "2026-06-29",
         "time": "20:30",
         "stad": "Gillette Stadium, Foxborough",
         "t1": "1E",
         "t2": "3A/B/C/D/F",
-        "status": "upcoming",
+        "status": "finished",
         "stats": {
-          "goalsTeam1": 0,
-          "goalsTeam2": 0,
-          "penaltyTeam1": 0,
-          "penaltyTeam2": 0,
-          "wentToPenalty": false,
-          "yellowCardsTeam1": 0,
-          "yellowCardsTeam2": 0,
+          "goalsTeam1": 1,
+          "goalsTeam2": 1,
+          "penaltyTeam1": 3,
+          "penaltyTeam2": 4,
+          "wentToPenalty": true,
+          "yellowCardsTeam1": 2,
+          "yellowCardsTeam2": 2,
           "redCardsTeam1": 0,
           "redCardsTeam2": 0,
-          "shotsTeam1": 0,
-          "shotsTeam2": 0,
-          "cornersTeam1": 0,
-          "cornersTeam2": 0,
-          "foulsTeam1": 0,
-          "foulsTeam2": 0
+          "shotsTeam1": 21,
+          "shotsTeam2": 7,
+          "cornersTeam1": 16,
+          "cornersTeam2": 6,
+          "foulsTeam1": 18,
+          "foulsTeam2": 12
         },
-        "scorers": [],
+        "scorers": [
+          {
+            "name": "Julio Enciso",
+            "team": "team2",
+            "time": 42,
+            "type": "normal"
+          },
+          {
+            "name": "Kai Havertz",
+            "team": "team1",
+            "time": 54,
+            "type": "normal"
+          }
+        ],
         "actualT1": "GER",
         "actualT2": "PAR"
       },
@@ -4938,29 +5022,43 @@
         "id": 75,
         "matchNum": 75,
         "date": "Tuesday 30 June 2026",
+        "isoDate": "2026-06-30",
         "time": "01:00",
         "stad": "Estadio BBVA, Guadalupe",
         "t1": "1F",
         "t2": "2C",
-        "status": "upcoming",
+        "status": "finished",
         "stats": {
-          "goalsTeam1": 0,
-          "goalsTeam2": 0,
-          "penaltyTeam1": 0,
-          "penaltyTeam2": 0,
-          "wentToPenalty": false,
+          "goalsTeam1": 1,
+          "goalsTeam2": 1,
+          "penaltyTeam1": 2,
+          "penaltyTeam2": 3,
+          "wentToPenalty": true,
           "yellowCardsTeam1": 0,
-          "yellowCardsTeam2": 0,
+          "yellowCardsTeam2": 1,
           "redCardsTeam1": 0,
           "redCardsTeam2": 0,
-          "shotsTeam1": 0,
-          "shotsTeam2": 0,
-          "cornersTeam1": 0,
-          "cornersTeam2": 0,
-          "foulsTeam1": 0,
-          "foulsTeam2": 0
+          "shotsTeam1": 7,
+          "shotsTeam2": 12,
+          "cornersTeam1": 5,
+          "cornersTeam2": 8,
+          "foulsTeam1": 18,
+          "foulsTeam2": 14
         },
-        "scorers": [],
+        "scorers": [
+          {
+            "name": "C. Gakpo",
+            "team": "team1",
+            "time": 72,
+            "type": "normal"
+          },
+          {
+            "name": "Issa Diop",
+            "team": "team2",
+            "time": "90+1",
+            "type": "normal"
+          }
+        ],
         "actualT1": "NED",
         "actualT2": "MAR"
       },
@@ -4968,29 +5066,49 @@
         "id": 76,
         "matchNum": 76,
         "date": "Monday 29 June 2026",
+        "isoDate": "2026-06-29",
         "time": "17:00",
         "stad": "NRG Stadium, Houston",
         "t1": "1C",
         "t2": "2F",
-        "status": "upcoming",
+        "status": "finished",
         "stats": {
-          "goalsTeam1": 0,
-          "goalsTeam2": 0,
+          "goalsTeam1": 2,
+          "goalsTeam2": 1,
           "penaltyTeam1": 0,
           "penaltyTeam2": 0,
           "wentToPenalty": false,
-          "yellowCardsTeam1": 0,
-          "yellowCardsTeam2": 0,
+          "yellowCardsTeam1": 2,
+          "yellowCardsTeam2": 3,
           "redCardsTeam1": 0,
           "redCardsTeam2": 0,
-          "shotsTeam1": 0,
-          "shotsTeam2": 0,
-          "cornersTeam1": 0,
-          "cornersTeam2": 0,
-          "foulsTeam1": 0,
-          "foulsTeam2": 0
+          "shotsTeam1": 20,
+          "shotsTeam2": 5,
+          "cornersTeam1": 6,
+          "cornersTeam2": 2,
+          "foulsTeam1": 4,
+          "foulsTeam2": 13
         },
-        "scorers": [],
+        "scorers": [
+          {
+            "name": "Kaishū Sano",
+            "team": "team2",
+            "time": 29,
+            "type": "normal"
+          },
+          {
+            "name": "Casemiro",
+            "team": "team1",
+            "time": 56,
+            "type": "normal"
+          },
+          {
+            "name": "Gabriel Martinelli",
+            "team": "team1",
+            "time": "90+6",
+            "type": "normal"
+          }
+        ],
         "actualT1": "BRA",
         "actualT2": "JPN"
       },
@@ -4998,6 +5116,7 @@
         "id": 77,
         "matchNum": 77,
         "date": "Tuesday 30 June 2026",
+        "isoDate": "2026-06-30",
         "time": "21:00",
         "stad": "MetLife Stadium, East Rutherford",
         "t1": "1I",
@@ -5028,6 +5147,7 @@
         "id": 78,
         "matchNum": 78,
         "date": "Tuesday 30 June 2026",
+        "isoDate": "2026-06-30",
         "time": "17:00",
         "stad": "AT&T Stadium, Arlington",
         "t1": "2E",
@@ -5058,6 +5178,7 @@
         "id": 79,
         "matchNum": 79,
         "date": "Wednesday 01 July 2026",
+        "isoDate": "2026-07-01",
         "time": "01:00",
         "stad": "Estadio Azteca, Mexico City",
         "t1": "1A",
@@ -5088,6 +5209,7 @@
         "id": 80,
         "matchNum": 80,
         "date": "Wednesday 01 July 2026",
+        "isoDate": "2026-07-01",
         "time": "16:00",
         "stad": "Mercedes-Benz Stadium, Atlanta",
         "t1": "1L",
@@ -5118,6 +5240,7 @@
         "id": 81,
         "matchNum": 81,
         "date": "Thursday 02 July 2026",
+        "isoDate": "2026-07-02",
         "time": "00:00",
         "stad": "Levi's Stadium, Santa Clara",
         "t1": "1D",
@@ -5148,6 +5271,7 @@
         "id": 82,
         "matchNum": 82,
         "date": "Wednesday 01 July 2026",
+        "isoDate": "2026-07-01",
         "time": "20:00",
         "stad": "Lumen Field, Seattle",
         "t1": "1G",
@@ -5178,6 +5302,7 @@
         "id": 83,
         "matchNum": 83,
         "date": "Thursday 02 July 2026",
+        "isoDate": "2026-07-02",
         "time": "23:00",
         "stad": "BMO Field, Toronto",
         "t1": "2K",
@@ -5208,6 +5333,7 @@
         "id": 84,
         "matchNum": 84,
         "date": "Thursday 02 July 2026",
+        "isoDate": "2026-07-02",
         "time": "19:00",
         "stad": "SoFi Stadium, Inglewood",
         "t1": "1H",
@@ -5238,6 +5364,7 @@
         "id": 85,
         "matchNum": 85,
         "date": "Friday 03 July 2026",
+        "isoDate": "2026-07-03",
         "time": "03:00",
         "stad": "BC Place, Vancouver",
         "t1": "1B",
@@ -5268,6 +5395,7 @@
         "id": 86,
         "matchNum": 86,
         "date": "Friday 03 July 2026",
+        "isoDate": "2026-07-03",
         "time": "22:00",
         "stad": "Hard Rock Stadium, Miami Gardens",
         "t1": "1J",
@@ -5298,6 +5426,7 @@
         "id": 87,
         "matchNum": 87,
         "date": "Saturday 04 July 2026",
+        "isoDate": "2026-07-04",
         "time": "01:30",
         "stad": "Arrowhead Stadium, Kansas City",
         "t1": "1K",
@@ -5328,6 +5457,7 @@
         "id": 88,
         "matchNum": 88,
         "date": "Friday 03 July 2026",
+        "isoDate": "2026-07-03",
         "time": "18:00",
         "stad": "AT&T Stadium, Arlington",
         "t1": "2D",
@@ -5359,6 +5489,7 @@
       {
         "matchNum": 89,
         "date": "Saturday 04 July 2026",
+        "isoDate": "2026-07-04",
         "time": "21:00",
         "stad": "Lincoln Financial Field, Philadelphia",
         "t1": "W74",
@@ -5382,12 +5513,13 @@
           "foulsTeam2": 0
         },
         "scorers": [],
-        "actualT1": null,
+        "actualT1": "PAR",
         "actualT2": null
       },
       {
         "matchNum": 90,
         "date": "Saturday 04 July 2026",
+        "isoDate": "2026-07-04",
         "time": "17:00",
         "stad": "NRG Stadium, Houston",
         "t1": "W73",
@@ -5412,11 +5544,12 @@
         },
         "scorers": [],
         "actualT1": "CAN",
-        "actualT2": null
+        "actualT2": "MAR"
       },
       {
         "matchNum": 91,
         "date": "Sunday 05 July 2026",
+        "isoDate": "2026-07-05",
         "time": "20:00",
         "stad": "MetLife Stadium, East Rutherford",
         "t1": "W76",
@@ -5440,12 +5573,13 @@
           "foulsTeam2": 0
         },
         "scorers": [],
-        "actualT1": null,
+        "actualT1": "BRA",
         "actualT2": null
       },
       {
         "matchNum": 92,
         "date": "Monday 06 July 2026",
+        "isoDate": "2026-07-06",
         "time": "00:00",
         "stad": "Estadio Azteca, Mexico City",
         "t1": "W79",
@@ -5475,6 +5609,7 @@
       {
         "matchNum": 93,
         "date": "Monday 06 July 2026",
+        "isoDate": "2026-07-06",
         "time": "19:00",
         "stad": "AT&T Stadium, Arlington",
         "t1": "W83",
@@ -5504,6 +5639,7 @@
       {
         "matchNum": 94,
         "date": "Tuesday 07 July 2026",
+        "isoDate": "2026-07-07",
         "time": "00:00",
         "stad": "Lumen Field, Seattle",
         "t1": "W81",
@@ -5533,6 +5669,7 @@
       {
         "matchNum": 95,
         "date": "Tuesday 07 July 2026",
+        "isoDate": "2026-07-07",
         "time": "16:00",
         "stad": "Mercedes-Benz Stadium, Atlanta",
         "t1": "W86",
@@ -5562,6 +5699,7 @@
       {
         "matchNum": 96,
         "date": "Tuesday 07 July 2026",
+        "isoDate": "2026-07-07",
         "time": "20:00",
         "stad": "BC Place, Vancouver",
         "t1": "W85",
@@ -5593,6 +5731,7 @@
       {
         "matchNum": 97,
         "date": "Thursday 09 July 2026",
+        "isoDate": "2026-07-09",
         "time": "20:00",
         "stad": "Gillette Stadium, Foxborough",
         "t1": "W89",
@@ -5622,6 +5761,7 @@
       {
         "matchNum": 98,
         "date": "Friday 10 July 2026",
+        "isoDate": "2026-07-10",
         "time": "19:00",
         "stad": "SoFi Stadium, Inglewood",
         "t1": "W93",
@@ -5651,6 +5791,7 @@
       {
         "matchNum": 99,
         "date": "Saturday 11 July 2026",
+        "isoDate": "2026-07-11",
         "time": "21:00",
         "stad": "Hard Rock Stadium, Miami Gardens",
         "t1": "W91",
@@ -5680,6 +5821,7 @@
       {
         "matchNum": 100,
         "date": "Sunday 12 July 2026",
+        "isoDate": "2026-07-12",
         "time": "01:00",
         "stad": "Arrowhead Stadium, Kansas City",
         "t1": "W95",
@@ -5711,6 +5853,7 @@
       {
         "matchNum": 101,
         "date": "Tuesday 14 July 2026",
+        "isoDate": "2026-07-14",
         "time": "19:00",
         "stad": "AT&T Stadium, Arlington",
         "t1": "W97",
@@ -5740,6 +5883,7 @@
       {
         "matchNum": 102,
         "date": "Wednesday 15 July 2026",
+        "isoDate": "2026-07-15",
         "time": "19:00",
         "stad": "Mercedes-Benz Stadium, Atlanta",
         "t1": "W99",
@@ -5771,6 +5915,7 @@
       {
         "matchNum": 103,
         "date": "Saturday 18 July 2026",
+        "isoDate": "2026-07-18",
         "time": "21:00",
         "stad": "Hard Rock Stadium, Miami Gardens",
         "t1": "LO101",
@@ -5802,6 +5947,7 @@
       {
         "matchNum": 104,
         "date": "Sunday 19 July 2026",
+        "isoDate": "2026-07-19",
         "time": "19:00",
         "stad": "MetLife Stadium, East Rutherford",
         "t1": "W101",
@@ -5830,5 +5976,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-06-29T04:45:58.612Z"
+  "lastUpdated": "2026-06-30T04:02:21.798Z"
 }
