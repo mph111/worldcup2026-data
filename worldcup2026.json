@@ -1224,7 +1224,7 @@
           "type": "normal"
         },
         {
-          "name": "Julian Quinones",
+          "name": "Julián Quiñones",
           "team": "team2",
           "time": 61,
           "type": "normal"
@@ -5121,9 +5121,9 @@
         "stad": "MetLife Stadium, East Rutherford",
         "t1": "1I",
         "t2": "3C/D/F/G/H",
-        "status": "upcoming",
+        "status": "finished",
         "stats": {
-          "goalsTeam1": 0,
+          "goalsTeam1": 3,
           "goalsTeam2": 0,
           "penaltyTeam1": 0,
           "penaltyTeam2": 0,
@@ -5132,14 +5132,33 @@
           "yellowCardsTeam2": 0,
           "redCardsTeam1": 0,
           "redCardsTeam2": 0,
-          "shotsTeam1": 0,
-          "shotsTeam2": 0,
-          "cornersTeam1": 0,
-          "cornersTeam2": 0,
-          "foulsTeam1": 0,
-          "foulsTeam2": 0
+          "shotsTeam1": 25,
+          "shotsTeam2": 8,
+          "cornersTeam1": 9,
+          "cornersTeam2": 1,
+          "foulsTeam1": 14,
+          "foulsTeam2": 10
         },
-        "scorers": [],
+        "scorers": [
+          {
+            "name": "Kylian Mbappé",
+            "team": "team1",
+            "time": 45,
+            "type": "normal"
+          },
+          {
+            "name": "Bradley Barcola",
+            "team": "team1",
+            "time": 53,
+            "type": "normal"
+          },
+          {
+            "name": "Kylian Mbappé",
+            "team": "team1",
+            "time": 74,
+            "type": "normal"
+          }
+        ],
         "actualT1": "FRA",
         "actualT2": "SWE"
       },
@@ -5152,25 +5171,44 @@
         "stad": "AT&T Stadium, Arlington",
         "t1": "2E",
         "t2": "2I",
-        "status": "upcoming",
+        "status": "finished",
         "stats": {
-          "goalsTeam1": 0,
-          "goalsTeam2": 0,
+          "goalsTeam1": 1,
+          "goalsTeam2": 2,
           "penaltyTeam1": 0,
           "penaltyTeam2": 0,
           "wentToPenalty": false,
           "yellowCardsTeam1": 0,
-          "yellowCardsTeam2": 0,
+          "yellowCardsTeam2": 1,
           "redCardsTeam1": 0,
           "redCardsTeam2": 0,
-          "shotsTeam1": 0,
-          "shotsTeam2": 0,
-          "cornersTeam1": 0,
-          "cornersTeam2": 0,
-          "foulsTeam1": 0,
-          "foulsTeam2": 0
+          "shotsTeam1": 14,
+          "shotsTeam2": 9,
+          "cornersTeam1": 14,
+          "cornersTeam2": 3,
+          "foulsTeam1": 6,
+          "foulsTeam2": 7
         },
-        "scorers": [],
+        "scorers": [
+          {
+            "name": "Antonio Nusa",
+            "team": "team2",
+            "time": 39,
+            "type": "normal"
+          },
+          {
+            "name": "Amad Diallo",
+            "team": "team1",
+            "time": 74,
+            "type": "normal"
+          },
+          {
+            "name": "Erling Haaland",
+            "team": "team2",
+            "time": 86,
+            "type": "normal"
+          }
+        ],
         "actualT1": "CIV",
         "actualT2": "NOR"
       },
@@ -5183,25 +5221,38 @@
         "stad": "Estadio Azteca, Mexico City",
         "t1": "1A",
         "t2": "3C/E/F/H/I",
-        "status": "upcoming",
+        "status": "finished",
         "stats": {
-          "goalsTeam1": 0,
+          "goalsTeam1": 2,
           "goalsTeam2": 0,
           "penaltyTeam1": 0,
           "penaltyTeam2": 0,
           "wentToPenalty": false,
           "yellowCardsTeam1": 0,
-          "yellowCardsTeam2": 0,
+          "yellowCardsTeam2": 3,
           "redCardsTeam1": 0,
-          "redCardsTeam2": 0,
-          "shotsTeam1": 0,
-          "shotsTeam2": 0,
-          "cornersTeam1": 0,
-          "cornersTeam2": 0,
-          "foulsTeam1": 0,
-          "foulsTeam2": 0
+          "redCardsTeam2": 1,
+          "shotsTeam1": 15,
+          "shotsTeam2": 8,
+          "cornersTeam1": 3,
+          "cornersTeam2": 8,
+          "foulsTeam1": 10,
+          "foulsTeam2": 14
         },
-        "scorers": [],
+        "scorers": [
+          {
+            "name": "Julián Quiñones",
+            "team": "team1",
+            "time": 22,
+            "type": "normal"
+          },
+          {
+            "name": "Raúl Jiménez",
+            "team": "team1",
+            "time": 31,
+            "type": "normal"
+          }
+        ],
         "actualT1": "MEX",
         "actualT2": "ECU"
       },
@@ -5514,7 +5565,7 @@
         },
         "scorers": [],
         "actualT1": "PAR",
-        "actualT2": null
+        "actualT2": "FRA"
       },
       {
         "matchNum": 90,
@@ -5574,7 +5625,7 @@
         },
         "scorers": [],
         "actualT1": "BRA",
-        "actualT2": null
+        "actualT2": "NOR"
       },
       {
         "matchNum": 92,
@@ -5603,7 +5654,7 @@
           "foulsTeam2": 0
         },
         "scorers": [],
-        "actualT1": null,
+        "actualT1": "MEX",
         "actualT2": null
       },
       {
@@ -5976,5 +6027,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-06-30T04:02:21.798Z"
+  "lastUpdated": "2026-07-01T05:16:18.465Z"
 }
