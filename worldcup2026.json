@@ -5265,25 +5265,44 @@
         "stad": "Mercedes-Benz Stadium, Atlanta",
         "t1": "1L",
         "t2": "3E/H/I/J/K",
-        "status": "upcoming",
+        "status": "finished",
         "stats": {
-          "goalsTeam1": 0,
-          "goalsTeam2": 0,
+          "goalsTeam1": 2,
+          "goalsTeam2": 1,
           "penaltyTeam1": 0,
           "penaltyTeam2": 0,
           "wentToPenalty": false,
-          "yellowCardsTeam1": 0,
-          "yellowCardsTeam2": 0,
+          "yellowCardsTeam1": 1,
+          "yellowCardsTeam2": 1,
           "redCardsTeam1": 0,
           "redCardsTeam2": 0,
-          "shotsTeam1": 0,
-          "shotsTeam2": 0,
-          "cornersTeam1": 0,
-          "cornersTeam2": 0,
-          "foulsTeam1": 0,
-          "foulsTeam2": 0
+          "shotsTeam1": 16,
+          "shotsTeam2": 7,
+          "cornersTeam1": 5,
+          "cornersTeam2": 3,
+          "foulsTeam1": 10,
+          "foulsTeam2": 12
         },
-        "scorers": [],
+        "scorers": [
+          {
+            "name": "B. Cipenga",
+            "team": "team2",
+            "time": 7,
+            "type": "normal"
+          },
+          {
+            "name": "Harry Kane",
+            "team": "team1",
+            "time": 75,
+            "type": "normal"
+          },
+          {
+            "name": "Harry Kane",
+            "team": "team1",
+            "time": 86,
+            "type": "normal"
+          }
+        ],
         "actualT1": "ENG",
         "actualT2": "COD"
       },
@@ -5296,25 +5315,38 @@
         "stad": "Levi's Stadium, Santa Clara",
         "t1": "1D",
         "t2": "3B/E/F/I/J",
-        "status": "upcoming",
+        "status": "finished",
         "stats": {
-          "goalsTeam1": 0,
+          "goalsTeam1": 2,
           "goalsTeam2": 0,
           "penaltyTeam1": 0,
           "penaltyTeam2": 0,
           "wentToPenalty": false,
           "yellowCardsTeam1": 0,
-          "yellowCardsTeam2": 0,
-          "redCardsTeam1": 0,
+          "yellowCardsTeam2": 1,
+          "redCardsTeam1": 1,
           "redCardsTeam2": 0,
-          "shotsTeam1": 0,
-          "shotsTeam2": 0,
-          "cornersTeam1": 0,
-          "cornersTeam2": 0,
-          "foulsTeam1": 0,
-          "foulsTeam2": 0
+          "shotsTeam1": 9,
+          "shotsTeam2": 11,
+          "cornersTeam1": 4,
+          "cornersTeam2": 3,
+          "foulsTeam1": 7,
+          "foulsTeam2": 13
         },
-        "scorers": [],
+        "scorers": [
+          {
+            "name": "F. Balogun",
+            "team": "team1",
+            "time": 45,
+            "type": "normal"
+          },
+          {
+            "name": "M. Tillman",
+            "team": "team1",
+            "time": 82,
+            "type": "normal"
+          }
+        ],
         "actualT1": "USA",
         "actualT2": "BIH"
       },
@@ -5327,25 +5359,56 @@
         "stad": "Lumen Field, Seattle",
         "t1": "1G",
         "t2": "3A/E/H/I/J",
-        "status": "upcoming",
+        "status": "finished",
         "stats": {
-          "goalsTeam1": 0,
-          "goalsTeam2": 0,
+          "goalsTeam1": 3,
+          "goalsTeam2": 2,
           "penaltyTeam1": 0,
           "penaltyTeam2": 0,
           "wentToPenalty": false,
-          "yellowCardsTeam1": 0,
-          "yellowCardsTeam2": 0,
+          "yellowCardsTeam1": 1,
+          "yellowCardsTeam2": 1,
           "redCardsTeam1": 0,
           "redCardsTeam2": 0,
-          "shotsTeam1": 0,
-          "shotsTeam2": 0,
-          "cornersTeam1": 0,
-          "cornersTeam2": 0,
-          "foulsTeam1": 0,
-          "foulsTeam2": 0
+          "shotsTeam1": 21,
+          "shotsTeam2": 19,
+          "cornersTeam1": 4,
+          "cornersTeam2": 2,
+          "foulsTeam1": 22,
+          "foulsTeam2": 11
         },
-        "scorers": [],
+        "scorers": [
+          {
+            "name": "Habib Diarra",
+            "team": "team2",
+            "time": 24,
+            "type": "normal"
+          },
+          {
+            "name": "I. Sarr",
+            "team": "team2",
+            "time": 51,
+            "type": "normal"
+          },
+          {
+            "name": "R. Lukaku",
+            "team": "team1",
+            "time": 86,
+            "type": "normal"
+          },
+          {
+            "name": "Y. Tielemans",
+            "team": "team1",
+            "time": 89,
+            "type": "normal"
+          },
+          {
+            "name": "Y. Tielemans",
+            "team": "team1",
+            "time": "120+5",
+            "type": "penalty"
+          }
+        ],
         "actualT1": "BEL",
         "actualT2": "SEN"
       },
@@ -5655,7 +5718,7 @@
         },
         "scorers": [],
         "actualT1": "MEX",
-        "actualT2": null
+        "actualT2": "ENG"
       },
       {
         "matchNum": 93,
@@ -5714,8 +5777,8 @@
           "foulsTeam2": 0
         },
         "scorers": [],
-        "actualT1": null,
-        "actualT2": null
+        "actualT1": "USA",
+        "actualT2": "BEL"
       },
       {
         "matchNum": 95,
@@ -6027,5 +6090,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-07-01T05:16:18.465Z"
+  "lastUpdated": "2026-07-02T07:10:35.476Z"
 }
